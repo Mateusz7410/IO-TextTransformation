@@ -19,7 +19,7 @@ public class FeaturesTest {
 
         Assert.assertEquals("doktor asdfafaasda Doktor doktor alaDr Doktor doktor jojo doktor alehandro doktor Doktor", features.rozwinSkrot("dr asdfafaasda Dr dr alaDr Dr dr jojo dr alehandro dr Dr"));
 
-        Assert.assertEquals("Na przykład asdfafaasda Na przykład elonp. Np.jolo Na przykład ehhe na przykład alehandro na przykład", features.rozwinSkrot("Np. asdfafaasda Np. elonp. Np.jolo Np. ehhe np. alehandro np."));
+        Assert.assertEquals("Na przykład  asdfafaasda Na przykład elonp. Np.jolo Na przykład ehhe na przykład alehandro na przykład", features.rozwinSkrot("Np.  asdfafaasda Np. elonp. Np.jolo Np. ehhe np. alehandro np."));
 
         Assert.assertEquals("i tak dalej asdfafaasda I tak dalej witamitd. i tak dalej Itd.siemka alehandro I tak dalej", features.rozwinSkrot("itd. asdfafaasda Itd. witamitd. itd. Itd.siemka alehandro Itd."));
 
