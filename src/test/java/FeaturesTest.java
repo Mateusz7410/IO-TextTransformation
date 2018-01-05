@@ -41,6 +41,7 @@ public class FeaturesTest {
     public void wszystkieMale() throws Exception {
         Assert.assertEquals("jedziemy na wycieczke", features.wszystkieMale("JedzIEMy Na wYCIEczkE"));
         Assert.assertEquals("to jest test dzialania, poprawnego dzialania! jest dobrze?", features.wszystkieMale("tO JESt TeST dZIAlaNIa, PoprawNEGo DZiaLAnia! JESt dOBrZe?"));
+        Assert.assertEquals("czy jenkins dziala", features.wszystkieMale("CZY JENKINS DZIALA"));
     }
 
     @Test

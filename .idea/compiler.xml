@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="IO-TextTranformation" />
+        <module name="TextTransformation" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="IO-TextTranformation" target="1.6" />
+      <module name="TextTransformation" target="1.6" />
     </bytecodeTargetLevel>
   </component>
 </project>
