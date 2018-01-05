@@ -57,4 +57,11 @@ public class FeaturesTest {
         Assert.assertEquals("To Jest Test Dzialania, Poprawnego Dzialania! Jest Dobrze?", features.pierwszeWielkie("tO JESt TeST dZIAlaNIa, PoprawNEGo DZiaLAnia! JESt dOBrZe?"));
 
     }
+
+    @Test
+    public void zmienLiczbyNaSlowa() throws Exception {
+        Assert.assertEquals("dwa plus dwa wynosi cztery", features.zmienLiczbyNaSlowa("2 plus 2 wynosi 4"));
+        //Assert.assertEquals("jeden i jedna dziesiata", features.zmienLiczbyNaSlowa("1,1"));
+        Assert.assertEquals("jedenascie i trzydziesci trzy oraz siedemdziesiat dwa", features.zmienLiczbyNaSlowa("11 i 33 oraz 72"));
+    }
 }
