@@ -108,7 +108,7 @@ public class Features {
 
         //text = text.replaceAll("[,]1\\s"," i jedna dziesiata ");
 
-        for(int i=99; i>0; i--) {
+        for(int i=999; i>0; i--) {
             text = text.replaceAll(gen.numberNumber[i], gen.numberWord[i]);
         }
         return text;
