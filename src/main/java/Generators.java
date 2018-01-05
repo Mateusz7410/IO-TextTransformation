@@ -18,15 +18,15 @@ public class Generators {
             dziesiatki[6], dziesiatki[6] + " " + jednosci[1], dziesiatki[6] + " " + jednosci[2], dziesiatki[6] + " " + jednosci[3], dziesiatki[6] + " " + jednosci[4], dziesiatki[6] + " " + jednosci[5], dziesiatki[6] + " " + jednosci[6], dziesiatki[6] + " " + jednosci[7], dziesiatki[6] + " " + jednosci[8], dziesiatki[6] + " " + jednosci[9],
             dziesiatki[7], dziesiatki[7] + " " + jednosci[1], dziesiatki[7] + " " + jednosci[2], dziesiatki[7] + " " + jednosci[3], dziesiatki[7] + " " + jednosci[4], dziesiatki[7] + " " + jednosci[5], dziesiatki[7] + " " + jednosci[6], dziesiatki[7] + " " + jednosci[7], dziesiatki[7] + " " + jednosci[8], dziesiatki[7] + " " + jednosci[9],
     };*/
-    public String[] numberWord=new String[1000] ;
-    public String[] numberNumber=new String[1000];
+    public String[] numberWord=new String[1001] ;
+    public String[] numberNumber=new String[1001];
 
 
 
 
     public void generatorLiczb()
     {
-        for (int i=0;i<1000;i++)
+        for (int i=0;i<1001;i++)
         {
             numberNumber[i]=Integer.toString(i);
         }
@@ -36,6 +36,7 @@ public class Generators {
         int czyspacjadj=0;
         int czyspacjasd=0;
         String dod = new String();
+        numberWord[1000]=specjalne[11];
         for (int i=0;i<10;i++)
         {
             for (int j=0;j<10;j++)
@@ -56,8 +57,6 @@ public class Generators {
                     }
                     if (i == 0 && j == 0 && k == 0) {
                         dod = specjalne[0];
-                    } else if (i == 9 && j == 9 && k == 9) {
-                        dod = specjalne[11];
                     } else if (j == 1) {
                         dod = specjalne[1 + k];
                     } else {

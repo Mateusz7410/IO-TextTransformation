@@ -127,7 +127,23 @@ public class Features {
         text = text.replaceAll("[.]9$"," i dziewiec dziesiatych");
         text = text.replaceAll("[.]9\\s"," i dziewiec dziesiatych ");
 
-        for(int i=999; i>0; i--) {
+        int koncowka=0;
+        String setne[] = {"setnych","setne"};
+        for(int i=99;i>9;i--) {
+            if(i>20 && (i%10==2 || i%10==3 || i%10==4))
+            {
+                koncowka=1;
+            }
+            else
+            {
+                koncowka=0;
+            }
+            String liczba = "[.]"+gen.numberNumber[i];
+            String liczbaSlowo = gen.numberWord[i];
+            text = text.replaceAll(liczba, " i "+liczbaSlowo+" "+setne[koncowka]);
+        }
+
+        for(int i=1000; i>0; i--) {
             text = text.replaceAll(gen.numberNumber[i], gen.numberWord[i]);
         }
         return text;
