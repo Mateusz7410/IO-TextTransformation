@@ -61,7 +61,8 @@ public class FeaturesTest {
     @Test
     public void zmienLiczbyNaSlowa() throws Exception {
         Assert.assertEquals("dwa plus dwa wynosi cztery", features.zmienLiczbyNaSlowa("2 plus 2 wynosi 4"));
-        //Assert.assertEquals("jeden i jedna dziesiata", features.zmienLiczbyNaSlowa("1,1"));
+        Assert.assertEquals("jeden i jedna dziesiata zlotego", features.zmienLiczbyNaSlowa("1.1 zlotego"));
+        Assert.assertEquals("dwa i jedna dziesiata", features.zmienLiczbyNaSlowa("2.1"));
         Assert.assertEquals("jedenascie i trzydziesci trzy oraz siedemdziesiat dwa", features.zmienLiczbyNaSlowa("11 i 33 oraz 72"));
         Assert.assertEquals("Ania ma siedemset siedemdziesiat dwa psy", features.zmienLiczbyNaSlowa("Ania ma 772 psy"));
         Assert.assertEquals("sto czterdziesci dwa krzesla", features.zmienLiczbyNaSlowa("142 krzesla"));

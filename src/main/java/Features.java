@@ -106,7 +106,26 @@ public class Features {
         Generators gen = new Generators();
         gen.generatorLiczb();
 
-        //text = text.replaceAll("[,]1\\s"," i jedna dziesiata ");
+
+        //jak oznaczyc znak konca ciagu?
+        text = text.replaceAll("[.]1$"," i jedna dziesiata");
+        text = text.replaceAll("[.]1\\s"," i jedna dziesiata ");
+        text = text.replaceAll("[.]2$"," i dwie dziesiate");
+        text = text.replaceAll("[.]2\\s"," i dwie dziesiate ");
+        text = text.replaceAll("[.]3$"," i trzy dziesiate");
+        text = text.replaceAll("[.]3\\s"," i trzy dziesiate ");
+        text = text.replaceAll("[.]4$"," i cztery dziesiate");
+        text = text.replaceAll("[.]4\\s"," i cztery dziesiate ");
+        text = text.replaceAll("[.]5$"," i pol");
+        text = text.replaceAll("[.]5\\s"," i pol ");
+        text = text.replaceAll("[.]6$"," i szesc dziesiatych");
+        text = text.replaceAll("[.]6\\s"," i szesc dziesiatych ");
+        text = text.replaceAll("[.]7$"," i siedem dziesiatych");
+        text = text.replaceAll("[.]7\\s"," i siedem dziesiatych ");
+        text = text.replaceAll("[.]8$"," i osiem dziesiatych");
+        text = text.replaceAll("[.]8\\s"," i osiem dziesiatych ");
+        text = text.replaceAll("[.]9$"," i dziewiec dziesiatych");
+        text = text.replaceAll("[.]9\\s"," i dziewiec dziesiatych ");
 
         for(int i=999; i>0; i--) {
             text = text.replaceAll(gen.numberNumber[i], gen.numberWord[i]);
