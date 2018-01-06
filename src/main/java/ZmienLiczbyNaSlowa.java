@@ -1,4 +1,4 @@
-public class ZmienLiczbyNaSlowa extends  TransformedText {
+class ZmienLiczbyNaSlowa extends  TransformedText {
     ZmienLiczbyNaSlowa(Text text) {
         super(text);
     }

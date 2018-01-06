@@ -1,4 +1,4 @@
-public class TText implements Text {
+class TText implements Text {
     private String text;
 
     public TText(String text) {

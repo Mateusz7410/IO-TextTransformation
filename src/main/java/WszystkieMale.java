@@ -1,4 +1,4 @@
-public class WszystkieMale extends TransformedText {
+class WszystkieMale extends TransformedText {
     WszystkieMale(Text text) {
         super(text);
     }

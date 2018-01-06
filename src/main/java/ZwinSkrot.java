@@ -1,4 +1,4 @@
-public class ZwinSkrot extends TransformedText {
+class ZwinSkrot extends TransformedText {
     ZwinSkrot(Text text){
         super(text);
     }

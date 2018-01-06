@@ -1,4 +1,4 @@
-public class PierwszeWielkie extends TransformedText {
+class PierwszeWielkie extends TransformedText {
     PierwszeWielkie(Text text) {
         super(text);
     }

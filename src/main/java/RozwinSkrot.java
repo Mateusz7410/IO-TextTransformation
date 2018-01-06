@@ -1,4 +1,4 @@
-public class RozwinSkrot extends TransformedText{
+class RozwinSkrot extends TransformedText{
 
     RozwinSkrot(Text text) {
         super(text);

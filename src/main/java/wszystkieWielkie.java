@@ -1,4 +1,4 @@
-public class WszystkieWielkie extends TransformedText{
+class WszystkieWielkie extends TransformedText{
 
     WszystkieWielkie(Text text) {
         super(text);
