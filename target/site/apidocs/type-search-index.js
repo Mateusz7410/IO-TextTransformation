@@ -1,1 +1,1 @@
-typeSearchIndex = [{"p":"<Unnamed>","l":"Features"},{"p":"<Unnamed>","l":"Generators"}]
+typeSearchIndex = [{"p":"<Unnamed>","l":"Generators"},{"p":"<Unnamed>","l":"PierwszeWielkie"},{"p":"<Unnamed>","l":"RozwinSkrot"},{"p":"<Unnamed>","l":"Text"},{"p":"<Unnamed>","l":"Transformations"},{"p":"<Unnamed>","l":"TText"},{"p":"<Unnamed>","l":"WszystkieMale"},{"p":"<Unnamed>","l":"WszystkieWielkie"},{"p":"<Unnamed>","l":"ZmienLiczbyNaSlowa"},{"p":"<Unnamed>","l":"ZwinSkrot"}]

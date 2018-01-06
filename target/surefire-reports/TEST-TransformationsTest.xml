@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="8" failures="0" name="FeaturesTest" time="0.048" errors="0" skipped="0">
+<testsuite tests="9" failures="0" name="TransformationsTest" time="0.096" errors="0" skipped="0">
   <properties>
     <property name="idea.version" value="2017.2.6"/>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
@@ -62,12 +62,13 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="FeaturesTest" name="zmienLiczbyNaSlowa" time="0.028"/>
-  <testcase classname="FeaturesTest" name="pierwszeWielkie" time="0"/>
-  <testcase classname="FeaturesTest" name="rozwinSkrotTest" time="0.004"/>
-  <testcase classname="FeaturesTest" name="zmienLiczbyNaSlowa2" time="0.009"/>
-  <testcase classname="FeaturesTest" name="zmienLiczbyNaSlowa3" time="0.006"/>
-  <testcase classname="FeaturesTest" name="wszystkieWielkie" time="0"/>
-  <testcase classname="FeaturesTest" name="wszystkieMale" time="0"/>
-  <testcase classname="FeaturesTest" name="zwinSkrot" time="0.001"/>
+  <testcase classname="TransformationsTest" name="zmienLiczbyNaSlowa" time="0.042"/>
+  <testcase classname="TransformationsTest" name="pierwszeWielkie" time="0.004"/>
+  <testcase classname="TransformationsTest" name="klikaNaRaz" time="0.018"/>
+  <testcase classname="TransformationsTest" name="rozwinSkrotTest" time="0.003"/>
+  <testcase classname="TransformationsTest" name="zmienLiczbyNaSlowa2" time="0.01"/>
+  <testcase classname="TransformationsTest" name="zmienLiczbyNaSlowa3" time="0.01"/>
+  <testcase classname="TransformationsTest" name="wszystkieWielkie" time="0.003"/>
+  <testcase classname="TransformationsTest" name="wszystkieMale" time="0.002"/>
+  <testcase classname="TransformationsTest" name="zwinSkrot" time="0.004"/>
 </testsuite>
