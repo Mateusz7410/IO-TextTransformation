@@ -2,8 +2,11 @@ ZmienLiczbyNaSlowa.class
 TText.class
 RozwinSkrot.class
 TransformedText.class
-Transformations.class
 Text.class
+UsunDuplikaty.class
+OdwrocZnaki.class
+NaFormatLatexa.class
+Transformations.class
 Generators.class
 WszystkieMale.class
 ZwinSkrot.class

@@ -22,4 +22,16 @@ public class Transformations {
     public static Text zmienLiczbyNaSlowa(Text text){
         return new ZmienLiczbyNaSlowa(text);
     }
+
+    public static Text naFormatLatexa(Text text){
+        return new NaFormatLatexa(text);
+    }
+
+    public static Text odwrocZnaki(Text text){
+        return new OdwrocZnaki(text);
+    }
+
+    public static Text usunDuplikaty(Text text){
+        return new UsunDuplikaty(text);
+    }
 }

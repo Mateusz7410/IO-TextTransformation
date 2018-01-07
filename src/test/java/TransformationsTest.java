@@ -4,6 +4,28 @@ import org.junit.Test;
 import static org.junit.Assert.*;
 
 public class TransformationsTest {
+    @Test
+    public void odwrocAngielskie() throws Exception {
+        Assert.assertEquals("EkZcEIcyw an YMEiZdej", Transformations.odwrocZnaki(new TText("JeDzIEmy na WYCIeCzke")).getText());
+        Assert.assertEquals("KerIm", Transformations.odwrocZnaki(new TText("MirEk")).getText());
+    }
+    @Test
+    public void odwrocSpecjalne() throws Exception {
+        Assert.assertEquals("aInALAizD#TSet@TSej!Ot", Transformations.odwrocZnaki(new TText("tO!JESt@TeST#dZIAlaNIa")).getText());
+        Assert.assertEquals("+_)(*&^%$#@!", Transformations.odwrocZnaki(new TText("!@#$%^&*()_+")).getText());
+    }
+    @Test
+    public void odwrocPolskie() throws Exception {
+        Assert.assertEquals("AkżDŻór aTłÓż", Transformations.odwrocZnaki(new TText("ŻółTA rÓżDżKa")).getText());
+        Assert.assertEquals("ąBĘg ĆErż", Transformations.odwrocZnaki(new TText("żREć GĘbą")).getText());
+    }
+    @Test
+    public void naFormatLatexaTest() throws Exception {
+        Assert.assertEquals("\\&a\\&b\\& \\&\\& \\&c\\&d\\&", Transformations.naFormatLatexa(new TText("&a&b& && &c&d&")).getText());
+        Assert.assertEquals("\\$a\\$ \\$ b\\$c \\$", Transformations.naFormatLatexa(new TText("$a$ $ b$c $")).getText());
+        Assert.assertEquals("\\$\\&\\$ \\&\\$\\&", Transformations.naFormatLatexa(new TText("$&$ &$&")).getText());
+        Assert.assertEquals("\\$\\n\\&\\n\\n\\$", Transformations.naFormatLatexa(new TText("$\\n&\\n\\n$")).getText());
+    }
 
     @Test
     public void rozwinSkrotTest() throws Exception {
