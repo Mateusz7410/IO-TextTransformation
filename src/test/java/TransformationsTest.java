@@ -53,11 +53,12 @@ public class TransformationsTest {
 
     @Test
     public void zwinSkrot() throws Exception {
-        Assert.assertEquals("Itp. widziały dzisiaj np. m.in. na przykuad M.in.", Transformations.zwinSkrot(new TText("I tYm poDobNe widziały dzisiaj na przYkłAd między innymi na przykuad MiĘdzy Innymi")).getText());
+        Assert.assertEquals("Itp. widziały dzisiaj np. m.in. na przykuad M.in.", Transformations.zwinSkrot(new TText("I tYm poDobNe widziały dzisiaj na przYklAd miedzy innymi na przykuad Miedzy Innymi")).getText());
 
-        Assert.assertEquals("M.in. widziały dzisiaj np. m.in. na przykuad itp.", Transformations.zwinSkrot(new TText("MiĘDzy InnYmi widziały dzisiaj na przYkłAd między innymi na przykuad i tym podobne")).getText());
+        Assert.assertEquals("M.in. widziały dzisiaj np. m.in. na przykuad itp.", Transformations.zwinSkrot(new TText("MieDzy InnYmi widziały dzisiaj na przYklAd miedzy innymi na przykuad i tym podobne")).getText());
 
-        Assert.assertEquals("Np. widziały dzisiaj np. m.in. na przykuad np.", Transformations.zwinSkrot(new TText("Na przykład widziały dzisiaj na przYkłAd między innymi na przykuad na przykład")).getText());
+        Assert.assertEquals("Np. widziały dzisiaj np. m.in. na przykuad np.", Transformations.zwinSkrot(new TText("Na przyklad widziały dzisiaj na przYklAd miedzy innymi na przykuad na przyklad")).getText());
+        Assert.assertEquals("Np.", Transformations.zwinSkrot(new TText("Na przyklad")).getText());
 
     }
 

@@ -1,4 +1,4 @@
-public class OdwrocZnaki extends TransformedText {
+class OdwrocZnaki extends TransformedText {
     OdwrocZnaki(Text text) {
         super(text);
     }

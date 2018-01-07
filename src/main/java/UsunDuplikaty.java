@@ -1,4 +1,4 @@
-public class UsunDuplikaty extends TransformedText {
+class UsunDuplikaty extends TransformedText {
     UsunDuplikaty(Text text) {
         super(text);
     }

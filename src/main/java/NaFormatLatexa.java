@@ -1,4 +1,4 @@
-public class NaFormatLatexa extends TransformedText {
+class NaFormatLatexa extends TransformedText {
     NaFormatLatexa(Text text) {
         super(text);
     }
