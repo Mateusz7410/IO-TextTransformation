@@ -9,7 +9,12 @@ public class UsunDuplikaty extends TransformedText {
     }
 
     public String usunDuplikaty(String text){
-        //TODO
-        return text;
+        //a a a b b -> a b
+        String[] arr = text.split(" ");
+        String result="";
+        for (int i = 0; i < arr.length-1; i++) {
+            if(!arr[i].equals(arr[i+1])) result += arr[i]+" ";
+        }
+        return result+arr[arr.length-1];
     }
 }
