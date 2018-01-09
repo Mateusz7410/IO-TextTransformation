@@ -3,7 +3,7 @@ package pl.put.poznan.transformer.logic;
 public class Generators {
     String spacja[] = {""," "};
     String specjalne[] = {"zero","dziesięć","jedenaście","dwanaście","trzynaście","czternaście","piętnaście","szesnaście","siedemnaście","osiemnaście","dziewiętnaście","tysiąc"};
-    String setki[] = {"","sto","dwieście","trzysta","czterysta","piecset","szescset","siedemset","osiemset","dziewiecset"};
+    String setki[] = {"","sto","dwieście","trzysta","czterysta","pięćset","sześćset","siedemset","osiemset","dziewięćset"};
     String dziesiatki[] = {"","","dwadzieścia","trzydzieści","czterdzieści","pięćdziesiąt","sześćdziesiąt","siedemdziesiąt","osiemdziesiąt","dziewięćdziesiąt"};
     String jednosci[] = {"" , "jeden" , "dwa" , "trzy" , "cztery" , "pięć" , "sześć" , "siedem" , "osiem" , "dziewięć"};
 

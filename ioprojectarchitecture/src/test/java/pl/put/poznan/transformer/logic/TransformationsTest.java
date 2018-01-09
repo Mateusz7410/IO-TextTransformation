@@ -97,7 +97,7 @@ public class TransformationsTest {
     public void zmienLiczbyNaSlowa2() throws Exception {
         Assert.assertEquals("jeden i jedna dziesiąta złotego", Transformations.zmienLiczbyNaSlowa(new TText("1.1 złotego")).getText());
         Assert.assertEquals("dwa i jedna dziesiąta", Transformations.zmienLiczbyNaSlowa(new TText("2.1")).getText());
-        Assert.assertEquals("dwa i pol", Transformations.zmienLiczbyNaSlowa(new TText("2.5")).getText());
+        Assert.assertEquals("dwa i pół", Transformations.zmienLiczbyNaSlowa(new TText("2.5")).getText());
     }
 
     @Test
@@ -105,7 +105,7 @@ public class TransformationsTest {
         Assert.assertEquals("dziewięćdziesiąt dwa i trzynaście setnych", Transformations.zmienLiczbyNaSlowa(new TText("92.13")).getText());
         Assert.assertEquals("zero i dwie setne", Transformations.zmienLiczbyNaSlowa(new TText("0.02")).getText());
         Assert.assertEquals("sto dwadzieścia osiem i czterdzieści dwa setne", Transformations.zmienLiczbyNaSlowa(new TText("128.42")).getText());
-        Assert.assertEquals("dziewięćset dziewięćdziesiśt dziewięć i dziewięćdziesiąt dziewięć setnych", Transformations.zmienLiczbyNaSlowa(new TText("999.99")).getText());
+        Assert.assertEquals("dziewięćset dziewięćdziesiąt dziewięć i dziewięćdziesiąt dziewięć setnych", Transformations.zmienLiczbyNaSlowa(new TText("999.99")).getText());
     }
 
     @Test

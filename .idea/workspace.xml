@@ -11,21 +11,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ZmienLiczbyNaSlowa.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ZmienLiczbyNaSlowa.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ioprojectarchitecture/src/main/java/pl/put/poznan/transformer/logic/ZmienLiczbyNaSlowa.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="681">
+            <state relative-caret-position="1101">
               <caret line="71" column="43" lean-forward="false" selection-start-line="71" selection-start-column="43" selection-end-line="71" selection-end-column="43" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Generators.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Generators.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ioprojectarchitecture/src/main/java/pl/put/poznan/transformer/logic/Generators.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-624">
-              <caret line="7" column="117" lean-forward="false" selection-start-line="7" selection-start-column="117" selection-end-line="7" selection-end-column="117" />
+            <state relative-caret-position="67">
+              <caret line="5" column="69" lean-forward="false" selection-start-line="5" selection-start-column="69" selection-end-line="5" selection-end-column="69" />
               <folding />
             </state>
           </provider>
@@ -34,7 +34,7 @@
       <file leaf-file-name="TextTransformer.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ioprojectarchitecture/src/main/java/pl/put/poznan/transformer/logic/TextTransformer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
+            <state relative-caret-position="-55">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -54,8 +54,8 @@
       <file leaf-file-name="TransformationsTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ioprojectarchitecture/src/test/java/pl/put/poznan/transformer/logic/TransformationsTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="642">
-              <caret line="116" column="75" lean-forward="false" selection-start-line="116" selection-start-column="75" selection-end-line="116" selection-end-column="75" />
+            <state relative-caret-position="471">
+              <caret line="107" column="56" lean-forward="false" selection-start-line="107" selection-start-column="56" selection-end-line="107" selection-end-column="56" />
               <folding />
             </state>
           </provider>
@@ -74,9 +74,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ioprojectarchitecture/src/main/java/pl/put/poznan/transformer/logic/Generators.java" />
-        <option value="$PROJECT_DIR$/ioprojectarchitecture/src/test/java/pl/put/poznan/transformer/logic/TransformationsTest.java" />
         <option value="$PROJECT_DIR$/ioprojectarchitecture/src/main/java/pl/put/poznan/transformer/logic/ZmienLiczbyNaSlowa.java" />
+        <option value="$PROJECT_DIR$/ioprojectarchitecture/src/test/java/pl/put/poznan/transformer/logic/TransformationsTest.java" />
+        <option value="$PROJECT_DIR$/ioprojectarchitecture/src/main/java/pl/put/poznan/transformer/logic/Generators.java" />
       </list>
     </option>
   </component>
@@ -476,22 +476,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ioprojectarchitecture/src/main/java/pl/put/poznan/transformer/logic/Generators.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-624">
-          <caret line="7" column="117" lean-forward="false" selection-start-line="7" selection-start-column="117" selection-end-line="7" selection-end-column="117" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ioprojectarchitecture/src/main/java/pl/put/poznan/transformer/logic/TextTransformer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ioprojectarchitecture/src/main/java/pl/put/poznan/transformer/logic/Transformations.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -500,18 +484,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ioprojectarchitecture/src/main/java/pl/put/poznan/transformer/logic/TextTransformer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-55">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ioprojectarchitecture/src/test/java/pl/put/poznan/transformer/logic/TransformationsTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="642">
-          <caret line="116" column="75" lean-forward="false" selection-start-line="116" selection-start-column="75" selection-end-line="116" selection-end-column="75" />
+        <state relative-caret-position="471">
+          <caret line="107" column="56" lean-forward="false" selection-start-line="107" selection-start-column="56" selection-end-line="107" selection-end-column="56" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ioprojectarchitecture/src/main/java/pl/put/poznan/transformer/logic/ZmienLiczbyNaSlowa.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="681">
+        <state relative-caret-position="1101">
           <caret line="71" column="43" lean-forward="false" selection-start-line="71" selection-start-column="43" selection-end-line="71" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ioprojectarchitecture/src/main/java/pl/put/poznan/transformer/logic/Generators.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67">
+          <caret line="5" column="69" lean-forward="false" selection-start-line="5" selection-start-column="69" selection-end-line="5" selection-end-column="69" />
           <folding />
         </state>
       </provider>
