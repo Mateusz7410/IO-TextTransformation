@@ -65,32 +65,32 @@ public class TransformationsTest {
     @Test
     public void wszystkieMale() throws Exception {
         Assert.assertEquals("jedziemy na wycieczkę", Transformations.wszystkieMale(new TText("JedzIEMy Na wYCIEczkĘ")).getText());
-        Assert.assertEquals("to jeśt test dzialania, poprawnego dzialania! jest dobrze?", Transformations.wszystkieMale(new TText("tO JEśt TeST dZIAlaNIa, PoprawNEGo DZiaLAnia! JESt dOBrZe?")).getText());
-        Assert.assertEquals("czy jenkins dziala", Transformations.wszystkieMale(new TText("CZY JENKINS DZIALA")).getText());
+        Assert.assertEquals("to jest test działania, poprawnego działania! jest dobrze?", Transformations.wszystkieMale(new TText("tO JEst TeST dZIAłaNIa, PoprawNEGo DZiałAnia! JESt dOBrZe?")).getText());
+        Assert.assertEquals("czy jenkins działa", Transformations.wszystkieMale(new TText("CZY JENKINS DZIAŁA")).getText());
     }
 
     @Test
     public void wszystkieWielkie() throws Exception {
         Assert.assertEquals("JEDZIEMY NA WYCIECZKĘ", Transformations.wszystkieWielkie(new TText("JedzIEMy Na wYCIEczkę")).getText());
-        Assert.assertEquals("TO JEST TEST DZIALANIA, POPRAWNEGO DZIALANIA! JEST DOBRZE?", Transformations.wszystkieWielkie(new TText("tO JESt TeST dZIAlaNIa, PoprawNEGo DZiaLAnia! JESt dOBrZe?")).getText());
+        Assert.assertEquals("TO JEST TEST DZIAŁANIA, POPRAWNEGO DZIAŁANIA! JEST DOBRZE?", Transformations.wszystkieWielkie(new TText("tO JESt TeST dZIAłaNIa, PoprawNEGo DZiaŁAnia! JESt dOBrZe?")).getText());
 
     }
 
     @Test
     public void pierwszeWielkie() throws Exception {
-        Assert.assertEquals("Jedziemy Na Wycieczke", Transformations.pierwszeWielkie(new TText("JedzIEMy Na wYCIEczkE")).getText());
-        Assert.assertEquals("To Jest Test Dzialania, Poprawnego Dzialania! Jest Dobrze?", Transformations.pierwszeWielkie(new TText("tO JESt TeST dZIAlaNIa, PoprawNEGo DZiaLAnia! JESt dOBrZe?")).getText());
+        Assert.assertEquals("Jedziemy Na Wycieczkę", Transformations.pierwszeWielkie(new TText("JedzIEMy Na wYCIEczkĘ")).getText());
+        Assert.assertEquals("To Jest Test Działania, Poprawnego Działania! Jest Dobrze?", Transformations.pierwszeWielkie(new TText("tO JESt TeST dZIAłaNIa, PoprawNEGo DZiaŁAnia! JESt dOBrZe?")).getText());
 
     }
 
     @Test
     public void zmienLiczbyNaSlowa() throws Exception {
         Assert.assertEquals("dwa plus dwa wynosi cztery", Transformations.zmienLiczbyNaSlowa(new TText("2 plus 2 wynosi 4")).getText());
-        Assert.assertEquals("jedenascie i trzydziesci trzy oraz siedemdziesiat dwa", Transformations.zmienLiczbyNaSlowa(new TText("11 i 33 oraz 72")).getText());
-        Assert.assertEquals("Ania ma siedemset siedemdziesiat dwa psy", Transformations.zmienLiczbyNaSlowa(new TText("Ania ma 772 psy")).getText());
-        Assert.assertEquals("sto czterdziesci dwa krzesla", Transformations.zmienLiczbyNaSlowa(new TText("142 krzesla")).getText());
-        Assert.assertEquals("dwadziescia trzy obiady", Transformations.zmienLiczbyNaSlowa(new TText("23 obiady")).getText());
-        Assert.assertEquals("jedenascie misek", Transformations.zmienLiczbyNaSlowa(new TText("11 misek")).getText());
+        Assert.assertEquals("jedenaście i trzydzieści trzy oraz siedemdziesiąt dwa", Transformations.zmienLiczbyNaSlowa(new TText("11 i 33 oraz 72")).getText());
+        Assert.assertEquals("Ania ma siedemset siedemdziesiąt dwa psy", Transformations.zmienLiczbyNaSlowa(new TText("Ania ma 772 psy")).getText());
+        Assert.assertEquals("sto czterdzieści dwa krzesła", Transformations.zmienLiczbyNaSlowa(new TText("142 krzesła")).getText());
+        Assert.assertEquals("dwadzieścia trzy obiady", Transformations.zmienLiczbyNaSlowa(new TText("23 obiady")).getText());
+        Assert.assertEquals("jedenaście misek", Transformations.zmienLiczbyNaSlowa(new TText("11 misek")).getText());
     }
 
     @Test
@@ -102,9 +102,10 @@ public class TransformationsTest {
 
     @Test
     public void zmienLiczbyNaSlowa3() throws Exception {
-        Assert.assertEquals("dziewiecdziesiat dwa i trzynascie setnych", Transformations.zmienLiczbyNaSlowa(new TText("92.13")).getText());
-        Assert.assertEquals("sto dwadziescia osiem i czterdziesci dwa setne", Transformations.zmienLiczbyNaSlowa(new TText("128.42")).getText());
-        Assert.assertEquals("dziewiecset dziewiecdziesiat dziewiec i dziewiecdziesiat dziewiec setnych", Transformations.zmienLiczbyNaSlowa(new TText("999.99")).getText());
+        Assert.assertEquals("dziewięćdziesiąt dwa i trzynaście setnych", Transformations.zmienLiczbyNaSlowa(new TText("92.13")).getText());
+        Assert.assertEquals("zero i dwie setne", Transformations.zmienLiczbyNaSlowa(new TText("0.02")).getText());
+        Assert.assertEquals("sto dwadzieścia osiem i czterdzieści dwa setne", Transformations.zmienLiczbyNaSlowa(new TText("128.42")).getText());
+        Assert.assertEquals("dziewięćset dziewięćdziesiśt dziewięć i dziewięćdziesiąt dziewięć setnych", Transformations.zmienLiczbyNaSlowa(new TText("999.99")).getText());
     }
 
     @Test

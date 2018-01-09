@@ -2,10 +2,10 @@ package pl.put.poznan.transformer.logic;
 
 public class Generators {
     String spacja[] = {""," "};
-    String specjalne[] = {"zero","dziesiec","jedenascie","dwanascie","trzynascie","czternascie","pietnascie","szesnascie","siedemnascie","osiemnascie","dziewietnascie","tysiac"};
-    String setki[] = {"","sto","dwiescie","trzysta","czterysta","piecset","szescset","siedemset","osiemset","dziewiecset"};
-    String dziesiatki[] = {"","","dwadziescia","trzydziesci","czterdziesci","piecdziesiat","szescdziesiat","siedemdziesiat","osiemdziesiat","dziewiecdziesiat"};
-    String jednosci[] = {"" , "jeden" , "dwa" , "trzy" , "cztery" , "piec" , "szesc" , "siedem" , "osiem" , "dziewiec"};
+    String specjalne[] = {"zero","dziesięć","jedenaście","dwanaście","trzynaście","czternaście","piętnaście","szesnaście","siedemnaście","osiemnaście","dziewiętnaście","tysiąc"};
+    String setki[] = {"","sto","dwieście","trzysta","czterysta","piecset","szescset","siedemset","osiemset","dziewiecset"};
+    String dziesiatki[] = {"","","dwadzieścia","trzydzieści","czterdzieści","pięćdziesiąt","sześćdziesiąt","siedemdziesiąt","osiemdziesiąt","dziewięćdziesiąt"};
+    String jednosci[] = {"" , "jeden" , "dwa" , "trzy" , "cztery" , "pięć" , "sześć" , "siedem" , "osiem" , "dziewięć"};
 
 
 

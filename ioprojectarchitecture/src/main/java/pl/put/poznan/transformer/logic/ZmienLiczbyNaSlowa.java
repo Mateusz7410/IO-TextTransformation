@@ -18,24 +18,34 @@ class ZmienLiczbyNaSlowa extends  TransformedText {
 
 
         //jak oznaczyc znak konca ciagu?
-        text = text.replaceAll("[.]1$"," i jedna dziesiata");
-        text = text.replaceAll("[.]1\\s"," i jedna dziesiata ");
-        text = text.replaceAll("[.]2$"," i dwie dziesiate");
-        text = text.replaceAll("[.]2\\s"," i dwie dziesiate ");
-        text = text.replaceAll("[.]3$"," i trzy dziesiate");
-        text = text.replaceAll("[.]3\\s"," i trzy dziesiate ");
-        text = text.replaceAll("[.]4$"," i cztery dziesiate");
-        text = text.replaceAll("[.]4\\s"," i cztery dziesiate ");
-        text = text.replaceAll("[.]5$"," i pol");
-        text = text.replaceAll("[.]5\\s"," i pol ");
-        text = text.replaceAll("[.]6$"," i szesc dziesiatych");
-        text = text.replaceAll("[.]6\\s"," i szesc dziesiatych ");
-        text = text.replaceAll("[.]7$"," i siedem dziesiatych");
-        text = text.replaceAll("[.]7\\s"," i siedem dziesiatych ");
-        text = text.replaceAll("[.]8$"," i osiem dziesiatych");
-        text = text.replaceAll("[.]8\\s"," i osiem dziesiatych ");
-        text = text.replaceAll("[.]9$"," i dziewiec dziesiatych");
-        text = text.replaceAll("[.]9\\s"," i dziewiec dziesiatych ");
+        text = text.replaceAll("[.]1$"," i jedna dziesiąta");
+        text = text.replaceAll("[.]1\\s"," i jedna dziesiąta ");
+        text = text.replaceAll("[.]2$"," i dwie dziesiąte");
+        text = text.replaceAll("[.]2\\s"," i dwie dziesiąte ");
+        text = text.replaceAll("[.]3$"," i trzy dziesiąte");
+        text = text.replaceAll("[.]3\\s"," i trzy dziesiąte ");
+        text = text.replaceAll("[.]4$"," i cztery dziesiąte");
+        text = text.replaceAll("[.]4\\s"," i cztery dziesiąte ");
+        text = text.replaceAll("[.]5$"," i pół");
+        text = text.replaceAll("[.]5\\s"," i pół ");
+        text = text.replaceAll("[.]6$"," i sześć dziesiątych");
+        text = text.replaceAll("[.]6\\s"," i sześć dziesiątych ");
+        text = text.replaceAll("[.]7$"," i siedem dziesiątych");
+        text = text.replaceAll("[.]7\\s"," i siedem dziesiątych ");
+        text = text.replaceAll("[.]8$"," i osiem dziesiątych");
+        text = text.replaceAll("[.]8\\s"," i osiem dziesiątych ");
+        text = text.replaceAll("[.]9$"," i dziewięć dziesiątych");
+        text = text.replaceAll("[.]9\\s"," i dziewięć dziesiątych ");
+
+        text = text.replaceAll("[.]01"," i jedna setna");
+        text = text.replaceAll("[.]02"," i dwie setne");
+        text = text.replaceAll("[.]03"," i trzy setne");
+        text = text.replaceAll("[.]04"," i cztery setne");
+        text = text.replaceAll("[.]05"," i pięć setnych");
+        text = text.replaceAll("[.]06"," i sześć setnych");
+        text = text.replaceAll("[.]07"," i siedem setnych");
+        text = text.replaceAll("[.]08"," i osiem setnych");
+        text = text.replaceAll("[.]09"," i dziewięć setnych");
 
         int koncowka=0;
         String setne[] = {"setnych","setne"};
