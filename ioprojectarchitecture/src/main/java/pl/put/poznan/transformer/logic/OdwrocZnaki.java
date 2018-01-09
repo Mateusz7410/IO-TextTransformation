@@ -19,7 +19,6 @@ class OdwrocZnaki extends TransformedText{
             if (Character.isUpperCase(arr[end - i])) result += Character.toUpperCase(arr[i]);
             else result += Character.toLowerCase(arr[i]);
         }
-        System.out.println(result);
         return result;
     }
 }

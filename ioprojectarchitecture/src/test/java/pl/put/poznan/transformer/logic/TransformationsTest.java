@@ -64,14 +64,14 @@ public class TransformationsTest {
 
     @Test
     public void wszystkieMale() throws Exception {
-        Assert.assertEquals("jedziemy na wycieczke", Transformations.wszystkieMale(new TText("JedzIEMy Na wYCIEczkE")).getText());
-        Assert.assertEquals("to jest test dzialania, poprawnego dzialania! jest dobrze?", Transformations.wszystkieMale(new TText("tO JESt TeST dZIAlaNIa, PoprawNEGo DZiaLAnia! JESt dOBrZe?")).getText());
+        Assert.assertEquals("jedziemy na wycieczkę", Transformations.wszystkieMale(new TText("JedzIEMy Na wYCIEczkĘ")).getText());
+        Assert.assertEquals("to jeśt test dzialania, poprawnego dzialania! jest dobrze?", Transformations.wszystkieMale(new TText("tO JEśt TeST dZIAlaNIa, PoprawNEGo DZiaLAnia! JESt dOBrZe?")).getText());
         Assert.assertEquals("czy jenkins dziala", Transformations.wszystkieMale(new TText("CZY JENKINS DZIALA")).getText());
     }
 
     @Test
     public void wszystkieWielkie() throws Exception {
-        Assert.assertEquals("JEDZIEMY NA WYCIECZKE", Transformations.wszystkieWielkie(new TText("JedzIEMy Na wYCIEczkE")).getText());
+        Assert.assertEquals("JEDZIEMY NA WYCIECZKĘ", Transformations.wszystkieWielkie(new TText("JedzIEMy Na wYCIEczkę")).getText());
         Assert.assertEquals("TO JEST TEST DZIALANIA, POPRAWNEGO DZIALANIA! JEST DOBRZE?", Transformations.wszystkieWielkie(new TText("tO JESt TeST dZIAlaNIa, PoprawNEGo DZiaLAnia! JESt dOBrZe?")).getText());
 
     }
