@@ -95,8 +95,8 @@ public class TransformationsTest {
 
     @Test
     public void zmienLiczbyNaSlowa2() throws Exception {
-        Assert.assertEquals("jeden i jedna dziesiata zlotego", Transformations.zmienLiczbyNaSlowa(new TText("1.1 zlotego")).getText());
-        Assert.assertEquals("dwa i jedna dziesiata", Transformations.zmienLiczbyNaSlowa(new TText("2.1")).getText());
+        Assert.assertEquals("jeden i jedna dziesiąta złotego", Transformations.zmienLiczbyNaSlowa(new TText("1.1 złotego")).getText());
+        Assert.assertEquals("dwa i jedna dziesiąta", Transformations.zmienLiczbyNaSlowa(new TText("2.1")).getText());
         Assert.assertEquals("dwa i pol", Transformations.zmienLiczbyNaSlowa(new TText("2.5")).getText());
     }
 
@@ -114,7 +114,7 @@ public class TransformationsTest {
         transformedText = Transformations.rozwinSkrot(transformedText);
         transformedText = Transformations.zmienLiczbyNaSlowa(transformedText);
         transformedText = Transformations.pierwszeWielkie(transformedText);
-        Assert.assertEquals("Gdy Profesor Adam Jedzie Na Wycieczke Dwadziescia Dwa Grudnia. Doktor Kotecki Też By Chciał Ale Nie Jest Doktor", transformedText.getText());
+        Assert.assertEquals("Gdy Profesor Adam Jedzie Na Wycieczke Dwadzieścia Dwa Grudnia. Doktor Kotecki Też By Chciał Ale Nie Jest Doktor", transformedText.getText());
     }
 
 }

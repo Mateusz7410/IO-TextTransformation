@@ -47,6 +47,8 @@ class ZmienLiczbyNaSlowa extends  TransformedText {
         text = text.replaceAll("[.]08"," i osiem setnych");
         text = text.replaceAll("[.]09"," i dziewięć setnych");
 
+
+
         int koncowka=0;
         String setne[] = {"setnych","setne"};
         for(int i=99;i>9;i--) {
@@ -66,6 +68,8 @@ class ZmienLiczbyNaSlowa extends  TransformedText {
         for(int i=1000; i>0; i--) {
             text = text.replaceAll(gen.numberNumber[i], gen.numberWord[i]);
         }
+
+        text = text.replaceAll("0","zero");
         return text;
     }
 }
