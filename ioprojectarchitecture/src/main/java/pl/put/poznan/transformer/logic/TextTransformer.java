@@ -3,16 +3,24 @@ package pl.put.poznan.transformer.logic;
 import org.json.simple.JSONObject;
 
 /**
- * This is just an example to show that the logic should be outside the REST service.
+ * Obsługa logiczna Text Transformera. Zwraca zmieniony tekst w formacie String , wykonując na nim operacje według kolejności użytkownika, do kontrolera.
  */
 public class TextTransformer {
 
+    /**
+     * Tablica zawierające transformacje do wykonania, podane przez użytkownika.
+     */
     private final String[] transforms;
 
     public TextTransformer(String[] transforms){
         this.transforms = transforms;
     }
 
+
+    /**
+     * Metoda sprawdzająca rodzaj transformacji i wykonująca ją w pętli.
+     * Na koniec zwraca przekonwertowany tekst.
+     */
     public String transform(String text){
         for(int i=0;i<transforms.length;i++) {
             if(transforms[i].equals("pw")){

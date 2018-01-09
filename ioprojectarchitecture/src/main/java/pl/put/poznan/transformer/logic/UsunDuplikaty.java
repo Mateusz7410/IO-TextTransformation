@@ -1,5 +1,7 @@
 package pl.put.poznan.transformer.logic;
-
+/**
+ * Dekorator usuwający powtarzające się duplikaty, dekorujący obiekt TText.
+ */
 class UsunDuplikaty extends TransformedText {
     UsunDuplikaty(Text text) {
         super(text);

@@ -1,5 +1,7 @@
 package pl.put.poznan.transformer.logic;
-
+/**
+ * Klasa która jest dekorowanym obiektem.
+ */
 class TText implements  Text{
     private String text;
 

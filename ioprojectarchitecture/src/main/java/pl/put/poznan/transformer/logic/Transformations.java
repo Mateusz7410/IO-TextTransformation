@@ -1,5 +1,7 @@
 package pl.put.poznan.transformer.logic;
-
+/**
+ * Klasa pomocnicza do dekorowania.
+ */
 public class Transformations {
     public static Text rozwinSkrot(Text text){
         return new RozwinSkrot(text);

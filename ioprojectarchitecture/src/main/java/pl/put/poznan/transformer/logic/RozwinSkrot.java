@@ -1,16 +1,33 @@
 package pl.put.poznan.transformer.logic;
-
+/**
+ * Dekorator przekształacający podane skróty na wyrażenia, dekorujący obiekt TText.
+ */
 class RozwinSkrot extends  TransformedText{
     RozwinSkrot(Text text) {
         super(text);
     }
 
+    /**
+     * Nadpisanie metody z klasy abstrakcyjnej.
+     */
     @Override
     protected String getTransformedText(String text){
         return rozwinSkrot(text);
     }
 
+
+
+    /**
+     * Metoda przekształcająca dane skróty na podane wyrażenia.
+     * Obsługa 3 skrótów:
+     * Prof. - Profesor | prof. - profesor
+     * Dr - Doktor | dr - doktor
+     * Np. - Na przykład | np. - na przykład
+     * Itd. - I tak dalej | itd. - i tak dalej
+     * Działa niezależnie od wielkości liter, pozostawiając pierwszą literę taką jaką podano w skrócie.
+     */
     public String rozwinSkrot(String text){
+
         //Prof. -> Profesor | prof. -> profesor
 
         text = text.replaceAll("\\sp[r|R][o|O][f|F]\\.\\s", " profesor ");

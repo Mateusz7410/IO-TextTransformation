@@ -1,5 +1,7 @@
 package pl.put.poznan.transformer.logic;
-
+/**
+ * Dekorator odwracający kolejność wyrażenia z zachowaniem wielkości znaków na poszczególnych pozycjach, dekorujący obiekt TText.
+ */
 class OdwrocZnaki extends TransformedText{
     OdwrocZnaki(Text text) {
         super(text);

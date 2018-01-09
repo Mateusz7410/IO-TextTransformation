@@ -1,5 +1,7 @@
 package pl.put.poznan.transformer.logic;
-
+/**
+ * Dekorator zamieniający wyrażenie na składnie Latexa, dekorujący obiekt TText.
+ */
 class NaFormatLatexa extends TransformedText{
     NaFormatLatexa(Text text) {
         super(text);

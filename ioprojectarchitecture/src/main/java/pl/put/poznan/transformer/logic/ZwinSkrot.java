@@ -1,16 +1,32 @@
 package pl.put.poznan.transformer.logic;
-
+/**
+ * Dekorator przekształacający podane wyrażenia na skróty, dekorujący obiekt klasy TText.
+ */
 class ZwinSkrot extends TransformedText {
     ZwinSkrot(Text text){
         super(text);
     }
-
+    /**
+     * Nadpisanie metody z klasy abstrakcyjnej.
+     */
     @Override
     protected String getTransformedText(String text){
         return zwinSkrot(text);
     }
 
+
+
+
+    /**
+     * Metoda przekształcająca dane wyrażenia na podane skróty.
+     * Obsługa 3 wyrażeń:
+     * na przykład - np.
+     * między innymi - m.in.
+     * i tym podobne - itp.
+     * Działa niezależnie od wielkości liter.
+     */
     public String zwinSkrot(String text) {
+
         //i tym podobne (dowolna konfiguracja wielkości liter) -> itp. | Itp.
 
         text = text.replaceAll("\\si\\s[t|T][y|Y][m|M]\\s[p|P][o|O][d|D][o|O][b|B][n|N][e|E]\\s", " itp. ");

@@ -1,5 +1,7 @@
 package pl.put.poznan.transformer.logic;
-
+/**
+ * Klasa pomocnicza zawierająca tablice i metody do zamiany liczb na słowa.
+ */
 public class Generators {
     String spacja[] = {""," "};
     String specjalne[] = {"zero","dziesięć","jedenaście","dwanaście","trzynaście","czternaście","piętnaście","szesnaście","siedemnaście","osiemnaście","dziewiętnaście","tysiąc"};
@@ -25,7 +27,9 @@ public class Generators {
 
 
 
-
+    /**
+     * Metoda generująca liczbą ich odpowiedniki słowne.
+     */
     public void generatorLiczb()
     {
         for (int i=0;i<1001;i++)

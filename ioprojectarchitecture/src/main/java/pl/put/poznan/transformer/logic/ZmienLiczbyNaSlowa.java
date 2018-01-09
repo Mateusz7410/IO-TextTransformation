@@ -1,5 +1,7 @@
 package pl.put.poznan.transformer.logic;
-
+/**
+ * Dekorator zmieniający liczby na słowa, dekorujący obiekt klasy TText.
+ */
 class ZmienLiczbyNaSlowa extends  TransformedText {
     ZmienLiczbyNaSlowa(Text text) {
         super(text);
