@@ -1,1 +1,0 @@
-typeSearchIndex = [{"p":"pl.put.poznan.transformer.logic","l":"TransformationsTest"}]
