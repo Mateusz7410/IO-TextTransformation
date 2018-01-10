@@ -10,7 +10,7 @@ import java.util.Arrays;
  * Klasa kontrolująca nasze REST api, odbierająca i wysyłająca dane odpowiednio przetworzone prze inne klasy.
  */
 @RestController
-@RequestMapping("/{text}")
+@RequestMapping("/{text:.*}")
 public class TextTransformerController {
 
     private static final Logger logger = LoggerFactory.getLogger(TextTransformerController.class);
