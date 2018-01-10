@@ -63,13 +63,13 @@
   <testcase name="odwrocSpecjalne" classname="pl.put.poznan.transformer.logic.TransformationsTest" time="0"/>
   <testcase name="zmienLiczbyNaSlowa" classname="pl.put.poznan.transformer.logic.TransformationsTest" time="0.047"/>
   <testcase name="naFormatLatexaTest" classname="pl.put.poznan.transformer.logic.TransformationsTest" time="0"/>
-  <testcase name="pierwszeWielkie" classname="pl.put.poznan.transformer.logic.TransformationsTest" time="0"/>
+  <testcase name="pierwszeWielkie" classname="pl.put.poznan.transformer.logic.TransformationsTest" time="0.016"/>
   <testcase name="odwrocAngielskie" classname="pl.put.poznan.transformer.logic.TransformationsTest" time="0"/>
-  <testcase name="klikaNaRaz" classname="pl.put.poznan.transformer.logic.TransformationsTest" time="0.016"/>
+  <testcase name="klikaNaRaz" classname="pl.put.poznan.transformer.logic.TransformationsTest" time="0"/>
   <testcase name="rozwinSkrotTest" classname="pl.put.poznan.transformer.logic.TransformationsTest" time="0"/>
-  <testcase name="zmienLiczbyNaSlowa2" classname="pl.put.poznan.transformer.logic.TransformationsTest" time="0.015"/>
-  <testcase name="zmienLiczbyNaSlowa3" classname="pl.put.poznan.transformer.logic.TransformationsTest" time="0"/>
-  <testcase name="wszystkieWielkie" classname="pl.put.poznan.transformer.logic.TransformationsTest" time="0.016"/>
+  <testcase name="zmienLiczbyNaSlowa2" classname="pl.put.poznan.transformer.logic.TransformationsTest" time="0.016"/>
+  <testcase name="zmienLiczbyNaSlowa3" classname="pl.put.poznan.transformer.logic.TransformationsTest" time="0.015"/>
+  <testcase name="wszystkieWielkie" classname="pl.put.poznan.transformer.logic.TransformationsTest" time="0"/>
   <testcase name="odwrocPolskie" classname="pl.put.poznan.transformer.logic.TransformationsTest" time="0"/>
   <testcase name="wszystkieMale" classname="pl.put.poznan.transformer.logic.TransformationsTest" time="0"/>
   <testcase name="zwinSkrot" classname="pl.put.poznan.transformer.logic.TransformationsTest" time="0"/>
