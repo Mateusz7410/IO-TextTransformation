@@ -2,182 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8bd6110-5258-490d-a1b3-907f15a29326" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/apidocs/allclasses-frame.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/apidocs/allclasses-noframe.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/apidocs/constant-values.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/apidocs/deprecated-list.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/apidocs/help-doc.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/apidocs/index-all.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/apidocs/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/apidocs/jquery/external/jquery/jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/apidocs/jquery/images/ui-bg_flat_0_aaaaaa_40x100.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/apidocs/jquery/images/ui-bg_flat_75_ffffff_40x100.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/apidocs/jquery/images/ui-bg_glass_55_fbf9ee_1x400.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/apidocs/jquery/images/ui-bg_glass_65_ffffff_1x400.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/apidocs/jquery/images/ui-bg_glass_75_dadada_1x400.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/apidocs/jquery/images/ui-bg_glass_75_e6e6e6_1x400.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/apidocs/jquery/images/ui-bg_glass_95_fef1ec_1x400.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/apidocs/jquery/images/ui-bg_highlight-soft_75_cccccc_1x100.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/apidocs/jquery/images/ui-icons_222222_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/apidocs/jquery/images/ui-icons_2e83ff_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/apidocs/jquery/images/ui-icons_454545_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/apidocs/jquery/images/ui-icons_888888_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/apidocs/jquery/images/ui-icons_cd0a0a_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/apidocs/jquery/jquery-1.10.2.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/apidocs/jquery/jquery-ui.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/apidocs/jquery/jquery-ui.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/apidocs/jquery/jquery-ui.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/apidocs/jquery/jquery-ui.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/apidocs/jquery/jquery-ui.structure.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/apidocs/jquery/jquery-ui.structure.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/apidocs/jquery/jszip-utils/dist/jszip-utils-ie.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/apidocs/jquery/jszip-utils/dist/jszip-utils-ie.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/apidocs/jquery/jszip-utils/dist/jszip-utils.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/apidocs/jquery/jszip-utils/dist/jszip-utils.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/apidocs/jquery/jszip/dist/jszip.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/apidocs/jquery/jszip/dist/jszip.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/apidocs/member-search-index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/apidocs/member-search-index.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/apidocs/overview-frame.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/apidocs/overview-summary.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/apidocs/overview-tree.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/apidocs/package-list" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/apidocs/package-search-index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/apidocs/package-search-index.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/transformer/app/TextTransformerApplication.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/transformer/app/class-use/TextTransformerApplication.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/transformer/app/package-frame.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/transformer/app/package-summary.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/transformer/app/package-tree.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/transformer/app/package-use.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/transformer/logic/Generators.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/transformer/logic/Main.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/transformer/logic/Text.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/transformer/logic/TextTransformer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/transformer/logic/Transformations.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/transformer/logic/class-use/Generators.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/transformer/logic/class-use/Main.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/transformer/logic/class-use/Text.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/transformer/logic/class-use/TextTransformer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/transformer/logic/class-use/Transformations.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/transformer/logic/package-frame.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/transformer/logic/package-summary.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/transformer/logic/package-tree.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/transformer/logic/package-use.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/transformer/rest/TextTransformerController.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/transformer/rest/class-use/TextTransformerController.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/transformer/rest/package-frame.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/transformer/rest/package-summary.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/transformer/rest/package-tree.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/apidocs/pl/put/poznan/transformer/rest/package-use.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/apidocs/resources/glass.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/apidocs/resources/x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/apidocs/script.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/apidocs/search.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/apidocs/stylesheet.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/apidocs/type-search-index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/apidocs/type-search-index.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/io-project-architecture-0.1-javadoc.jar" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/pl/put/poznan/transformer/app/TextTransformerApplication.class" afterPath="$PROJECT_DIR$/target/classes/pl/put/poznan/transformer/app/TextTransformerApplication.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/pl/put/poznan/transformer/logic/Generators.class" afterPath="$PROJECT_DIR$/target/classes/pl/put/poznan/transformer/logic/Generators.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/pl/put/poznan/transformer/logic/NaFormatLatexa.class" afterPath="$PROJECT_DIR$/target/classes/pl/put/poznan/transformer/logic/NaFormatLatexa.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/pl/put/poznan/transformer/logic/OdwrocZnaki.class" afterPath="$PROJECT_DIR$/target/classes/pl/put/poznan/transformer/logic/OdwrocZnaki.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/pl/put/poznan/transformer/logic/PierwszeWielkie.class" afterPath="$PROJECT_DIR$/target/classes/pl/put/poznan/transformer/logic/PierwszeWielkie.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/pl/put/poznan/transformer/logic/RozwinSkrot.class" afterPath="$PROJECT_DIR$/target/classes/pl/put/poznan/transformer/logic/RozwinSkrot.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/pl/put/poznan/transformer/logic/TText.class" afterPath="$PROJECT_DIR$/target/classes/pl/put/poznan/transformer/logic/TText.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/pl/put/poznan/transformer/logic/TextTransformer.class" afterPath="$PROJECT_DIR$/target/classes/pl/put/poznan/transformer/logic/TextTransformer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/pl/put/poznan/transformer/logic/Transformations.class" afterPath="$PROJECT_DIR$/target/classes/pl/put/poznan/transformer/logic/Transformations.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/pl/put/poznan/transformer/logic/TransformedText.class" afterPath="$PROJECT_DIR$/target/classes/pl/put/poznan/transformer/logic/TransformedText.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/pl/put/poznan/transformer/logic/UsunDuplikaty.class" afterPath="$PROJECT_DIR$/target/classes/pl/put/poznan/transformer/logic/UsunDuplikaty.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/pl/put/poznan/transformer/logic/WszystkieMale.class" afterPath="$PROJECT_DIR$/target/classes/pl/put/poznan/transformer/logic/WszystkieMale.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/pl/put/poznan/transformer/logic/WszystkieWielkie.class" afterPath="$PROJECT_DIR$/target/classes/pl/put/poznan/transformer/logic/WszystkieWielkie.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/pl/put/poznan/transformer/logic/ZmienLiczbyNaSlowa.class" afterPath="$PROJECT_DIR$/target/classes/pl/put/poznan/transformer/logic/ZmienLiczbyNaSlowa.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/pl/put/poznan/transformer/logic/ZwinSkrot.class" afterPath="$PROJECT_DIR$/target/classes/pl/put/poznan/transformer/logic/ZwinSkrot.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/pl/put/poznan/transformer/rest/TextTransformerController.class" afterPath="$PROJECT_DIR$/target/classes/pl/put/poznan/transformer/rest/TextTransformerController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/io-project-architecture-0.1.jar" afterPath="$PROJECT_DIR$/target/io-project-architecture-0.1.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/io-project-architecture-0.1.jar.original" afterPath="$PROJECT_DIR$/target/io-project-architecture-0.1.jar.original" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/member-search-index.zip" afterPath="$PROJECT_DIR$/target/site/apidocs/member-search-index.zip" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/package-search-index.zip" afterPath="$PROJECT_DIR$/target/site/apidocs/package-search-index.zip" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/type-search-index.zip" afterPath="$PROJECT_DIR$/target/site/apidocs/type-search-index.zip" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/testapidocs/member-search-index.zip" afterPath="$PROJECT_DIR$/target/site/testapidocs/member-search-index.zip" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/testapidocs/package-search-index.zip" afterPath="$PROJECT_DIR$/target/site/testapidocs/package-search-index.zip" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/testapidocs/type-search-index.zip" afterPath="$PROJECT_DIR$/target/site/testapidocs/type-search-index.zip" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/pl/put/poznan/transformer/logic/TransformationsTest.class" afterPath="$PROJECT_DIR$/target/test-classes/pl/put/poznan/transformer/logic/TransformationsTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/pl/put/poznan/transformer/app/TextTransformerApplication.java" afterPath="$PROJECT_DIR$/src/main/java/pl/put/poznan/transformer/app/TextTransformerApplication.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/pl/put/poznan/transformer/logic/Generators.java" afterPath="$PROJECT_DIR$/src/main/java/pl/put/poznan/transformer/logic/Generators.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/pl/put/poznan/transformer/logic/NaFormatLatexa.java" afterPath="$PROJECT_DIR$/src/main/java/pl/put/poznan/transformer/logic/NaFormatLatexa.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/pl/put/poznan/transformer/logic/OdwrocZnaki.java" afterPath="$PROJECT_DIR$/src/main/java/pl/put/poznan/transformer/logic/OdwrocZnaki.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/pl/put/poznan/transformer/logic/PierwszeWielkie.java" afterPath="$PROJECT_DIR$/src/main/java/pl/put/poznan/transformer/logic/PierwszeWielkie.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/pl/put/poznan/transformer/logic/RozwinSkrot.java" afterPath="$PROJECT_DIR$/src/main/java/pl/put/poznan/transformer/logic/RozwinSkrot.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/pl/put/poznan/transformer/logic/TText.java" afterPath="$PROJECT_DIR$/src/main/java/pl/put/poznan/transformer/logic/TText.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/pl/put/poznan/transformer/logic/Text.java" afterPath="$PROJECT_DIR$/src/main/java/pl/put/poznan/transformer/logic/Text.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/pl/put/poznan/transformer/logic/TextTransformer.java" afterPath="$PROJECT_DIR$/src/main/java/pl/put/poznan/transformer/logic/TextTransformer.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/pl/put/poznan/transformer/logic/Transformations.java" afterPath="$PROJECT_DIR$/src/main/java/pl/put/poznan/transformer/logic/Transformations.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/pl/put/poznan/transformer/logic/TransformedText.java" afterPath="$PROJECT_DIR$/src/main/java/pl/put/poznan/transformer/logic/TransformedText.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/pl/put/poznan/transformer/logic/UsunDuplikaty.java" afterPath="$PROJECT_DIR$/src/main/java/pl/put/poznan/transformer/logic/UsunDuplikaty.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/pl/put/poznan/transformer/logic/WszystkieMale.java" afterPath="$PROJECT_DIR$/src/main/java/pl/put/poznan/transformer/logic/WszystkieMale.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/pl/put/poznan/transformer/logic/WszystkieWielkie.java" afterPath="$PROJECT_DIR$/src/main/java/pl/put/poznan/transformer/logic/WszystkieWielkie.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/pl/put/poznan/transformer/logic/ZmienLiczbyNaSlowa.java" afterPath="$PROJECT_DIR$/src/main/java/pl/put/poznan/transformer/logic/ZmienLiczbyNaSlowa.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/pl/put/poznan/transformer/logic/ZwinSkrot.java" afterPath="$PROJECT_DIR$/src/main/java/pl/put/poznan/transformer/logic/ZwinSkrot.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/pl/put/poznan/transformer/rest/TextTransformerController.java" afterPath="$PROJECT_DIR$/src/main/java/pl/put/poznan/transformer/rest/TextTransformerController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/allclasses-frame.html" afterPath="$PROJECT_DIR$/target/site/apidocs/allclasses-frame.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/allclasses-noframe.html" afterPath="$PROJECT_DIR$/target/site/apidocs/allclasses-noframe.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/constant-values.html" afterPath="$PROJECT_DIR$/target/site/apidocs/constant-values.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/deprecated-list.html" afterPath="$PROJECT_DIR$/target/site/apidocs/deprecated-list.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/help-doc.html" afterPath="$PROJECT_DIR$/target/site/apidocs/help-doc.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/index-all.html" afterPath="$PROJECT_DIR$/target/site/apidocs/index-all.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/index.html" afterPath="$PROJECT_DIR$/target/site/apidocs/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/member-search-index.js" afterPath="$PROJECT_DIR$/target/site/apidocs/member-search-index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/overview-frame.html" afterPath="$PROJECT_DIR$/target/site/apidocs/overview-frame.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/overview-summary.html" afterPath="$PROJECT_DIR$/target/site/apidocs/overview-summary.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/overview-tree.html" afterPath="$PROJECT_DIR$/target/site/apidocs/overview-tree.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/app/TextTransformerApplication.html" afterPath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/app/TextTransformerApplication.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/app/class-use/TextTransformerApplication.html" afterPath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/app/class-use/TextTransformerApplication.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/app/package-frame.html" afterPath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/app/package-frame.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/app/package-summary.html" afterPath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/app/package-summary.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/app/package-tree.html" afterPath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/app/package-tree.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/app/package-use.html" afterPath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/app/package-use.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/Generators.html" afterPath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/Generators.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/Main.html" afterPath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/Main.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/Text.html" afterPath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/Text.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/TextTransformer.html" afterPath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/TextTransformer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/Transformations.html" afterPath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/Transformations.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/class-use/Generators.html" afterPath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/class-use/Generators.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/class-use/Main.html" afterPath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/class-use/Main.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/class-use/Text.html" afterPath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/class-use/Text.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/class-use/TextTransformer.html" afterPath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/class-use/TextTransformer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/class-use/Transformations.html" afterPath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/class-use/Transformations.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/package-frame.html" afterPath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/package-frame.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/package-summary.html" afterPath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/package-summary.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/package-tree.html" afterPath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/package-tree.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/package-use.html" afterPath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/package-use.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/rest/TextTransformerController.html" afterPath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/rest/TextTransformerController.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/rest/class-use/TextTransformerController.html" afterPath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/rest/class-use/TextTransformerController.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/rest/package-frame.html" afterPath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/rest/package-frame.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/rest/package-summary.html" afterPath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/rest/package-summary.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/rest/package-tree.html" afterPath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/rest/package-tree.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/rest/package-use.html" afterPath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/rest/package-use.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/type-search-index.js" afterPath="$PROJECT_DIR$/target/site/apidocs/type-search-index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/surefire-report.html" afterPath="$PROJECT_DIR$/target/site/surefire-report.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/testapidocs/allclasses-frame.html" afterPath="$PROJECT_DIR$/target/site/testapidocs/allclasses-frame.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/testapidocs/allclasses-noframe.html" afterPath="$PROJECT_DIR$/target/site/testapidocs/allclasses-noframe.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/testapidocs/constant-values.html" afterPath="$PROJECT_DIR$/target/site/testapidocs/constant-values.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/testapidocs/deprecated-list.html" afterPath="$PROJECT_DIR$/target/site/testapidocs/deprecated-list.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/testapidocs/help-doc.html" afterPath="$PROJECT_DIR$/target/site/testapidocs/help-doc.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/testapidocs/index-all.html" afterPath="$PROJECT_DIR$/target/site/testapidocs/index-all.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/testapidocs/index.html" afterPath="$PROJECT_DIR$/target/site/testapidocs/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/testapidocs/overview-tree.html" afterPath="$PROJECT_DIR$/target/site/testapidocs/overview-tree.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/testapidocs/pl/put/poznan/transformer/logic/TransformationsTest.html" afterPath="$PROJECT_DIR$/target/site/testapidocs/pl/put/poznan/transformer/logic/TransformationsTest.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/testapidocs/pl/put/poznan/transformer/logic/class-use/TransformationsTest.html" afterPath="$PROJECT_DIR$/target/site/testapidocs/pl/put/poznan/transformer/logic/class-use/TransformationsTest.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/testapidocs/pl/put/poznan/transformer/logic/package-frame.html" afterPath="$PROJECT_DIR$/target/site/testapidocs/pl/put/poznan/transformer/logic/package-frame.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/testapidocs/pl/put/poznan/transformer/logic/package-summary.html" afterPath="$PROJECT_DIR$/target/site/testapidocs/pl/put/poznan/transformer/logic/package-summary.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/testapidocs/pl/put/poznan/transformer/logic/package-tree.html" afterPath="$PROJECT_DIR$/target/site/testapidocs/pl/put/poznan/transformer/logic/package-tree.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/testapidocs/pl/put/poznan/transformer/logic/package-use.html" afterPath="$PROJECT_DIR$/target/site/testapidocs/pl/put/poznan/transformer/logic/package-use.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-pl.put.poznan.transformer.logic.TransformationsTest.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-pl.put.poznan.transformer.logic.TransformationsTest.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -188,7 +13,307 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
+    <leaf>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/put/poznan/transformer/logic/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="5" column="43" lean-forward="false" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JAVA/pl.put.poznan.transformer.logic.Main" pinned="false" current-in-tab="true">
+        <entry file="uml://JAVA/pl.put.poznan.transformer.logic.Main">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>JAVA</ID>
+              <OriginalElement>pl.put.poznan.transformer.logic.Main</OriginalElement>
+              <nodes>
+                <node x="0.0" y="1690.0">pl.put.poznan.transformer.app.TextTransformerApplication</node>
+                <node x="210.11323529411766" y="506.0">pl.put.poznan.transformer.logic.ZmienLiczbyNaSlowa</node>
+                <node x="2519.1132352941177" y="506.0">pl.put.poznan.transformer.logic.OdwrocZnaki</node>
+                <node x="1506.3361519607847" y="0.0">pl.put.poznan.transformer.logic.Text</node>
+                <node x="247.11323529411766" y="173.0">pl.put.poznan.transformer.logic.Generators</node>
+                <node x="1861.1132352941177" y="506.0">pl.put.poznan.transformer.logic.PierwszeWielkie</node>
+                <node x="1203.1132352941177" y="506.0">pl.put.poznan.transformer.logic.WszystkieMale</node>
+                <node x="2374.116053921569" y="1063.0">pl.put.poznan.transformer.logic.TransformationsTest</node>
+                <node x="1384.7799019607842" y="226.0">pl.put.poznan.transformer.logic.TransformedText</node>
+                <node x="0.0" y="1527.0">pl.put.poznan.transformer.rest.TextTransformerController</node>
+                <node x="2190.1132352941177" y="506.0">pl.put.poznan.transformer.logic.WszystkieWielkie</node>
+                <node x="545.1132352941177" y="506.0">pl.put.poznan.transformer.logic.ZwinSkrot</node>
+                <node x="1532.1132352941177" y="506.0">pl.put.poznan.transformer.logic.UsunDuplikaty</node>
+                <node x="1704.6132352941177" y="704.0">pl.put.poznan.transformer.logic.Transformations</node>
+                <node x="2848.1132352941177" y="506.0">pl.put.poznan.transformer.logic.RozwinSkrot</node>
+                <node x="1.5" y="1210.5">pl.put.poznan.transformer.logic.TextTransformer</node>
+                <node x="113.61323529411766" y="798.0">pl.put.poznan.transformer.logic.TText</node>
+                <node x="874.1132352941177" y="506.0">pl.put.poznan.transformer.logic.NaFormatLatexa</node>
+                <node x="871.7416666666667" y="1238.5">pl.put.poznan.transformer.logic.Main</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="pl.put.poznan.transformer.logic.Transformations" target="pl.put.poznan.transformer.logic.UsunDuplikaty">
+                  <point x="-14.650000000000091" y="-139.5" />
+                  <point x="1836.4632352941176" y="644.0" />
+                  <point x="1686.6132352941177" y="644.0" />
+                  <point x="0.0" y="59.0" />
+                </edge>
+                <edge source="pl.put.poznan.transformer.logic.WszystkieWielkie" target="pl.put.poznan.transformer.logic.TransformedText">
+                  <point x="-77.25" y="-59.0" />
+                  <point x="2267.3632352941177" y="466.0" />
+                  <point x="1607.9465686274511" y="466.0" />
+                  <point x="68.66666666666674" y="73.5" />
+                </edge>
+                <edge source="pl.put.poznan.transformer.logic.Main" target="pl.put.poznan.transformer.logic.TText">
+                  <point x="-51.999999999999886" y="-31.5" />
+                  <point x="923.7416666666668" y="1023.0" />
+                  <point x="199.61323529411766" y="1023.0" />
+                  <point x="0.0" y="45.5" />
+                </edge>
+                <edge source="pl.put.poznan.transformer.logic.PierwszeWielkie" target="pl.put.poznan.transformer.logic.Text">
+                  <point x="77.25" y="-59.0" />
+                  <point x="2092.8632352941177" y="133.0" />
+                  <point x="1589.3028186274514" y="133.0" />
+                  <point x="17.466666666666697" y="31.5" />
+                </edge>
+                <edge source="pl.put.poznan.transformer.logic.Transformations" target="pl.put.poznan.transformer.logic.NaFormatLatexa">
+                  <point x="-73.25" y="-139.5" />
+                  <point x="1777.8632352941177" y="664.0" />
+                  <point x="1028.6132352941177" y="664.0" />
+                  <point x="0.0" y="59.0" />
+                </edge>
+                <edge source="pl.put.poznan.transformer.logic.ZmienLiczbyNaSlowa" target="pl.put.poznan.transformer.logic.TransformedText">
+                  <point x="118.125" y="-59.0" />
+                  <point x="485.73823529411766" y="456.0" />
+                  <point x="1401.9465686274511" y="456.0" />
+                  <point x="-137.33333333333326" y="73.5" />
+                </edge>
+                <edge source="pl.put.poznan.transformer.logic.UsunDuplikaty" target="pl.put.poznan.transformer.logic.Text">
+                  <point x="77.25" y="-59.0" />
+                  <point x="1763.8632352941177" y="486.0" />
+                  <point x="1769.1132352941177" y="486.0" />
+                  <point x="1769.1132352941177" y="143.0" />
+                  <point x="1580.5694852941178" y="143.0" />
+                  <point x="8.733333333333348" y="31.5" />
+                </edge>
+                <edge source="pl.put.poznan.transformer.logic.NaFormatLatexa" target="pl.put.poznan.transformer.logic.Text">
+                  <point x="-77.25" y="-59.0" />
+                  <point x="951.3632352941177" y="123.0" />
+                  <point x="1536.9028186274513" y="123.0" />
+                  <point x="-34.933333333333394" y="31.5" />
+                </edge>
+                <edge source="pl.put.poznan.transformer.logic.TransformationsTest" target="pl.put.poznan.transformer.logic.TText">
+                  <point x="-91.33333333333348" y="-207.0" />
+                  <point x="2419.7827205882354" y="1013.0" />
+                  <point x="256.9465686274509" y="1013.0" />
+                  <point x="57.33333333333337" y="45.5" />
+                </edge>
+                <edge source="pl.put.poznan.transformer.logic.RozwinSkrot" target="pl.put.poznan.transformer.logic.TransformedText">
+                  <point x="-77.25" y="-59.0" />
+                  <point x="2925.3632352941177" y="446.0" />
+                  <point x="1676.6132352941177" y="446.0" />
+                  <point x="137.33333333333348" y="73.5" />
+                </edge>
+                <edge source="pl.put.poznan.transformer.logic.TextTransformer" target="pl.put.poznan.transformer.logic.TText">
+                  <point x="-63.5" y="-59.5" />
+                  <point x="65.0" y="1043.0" />
+                  <point x="142.2799019607844" y="1043.0" />
+                  <point x="-57.33333333333334" y="45.5" />
+                </edge>
+                <edge source="pl.put.poznan.transformer.logic.Transformations" target="pl.put.poznan.transformer.logic.PierwszeWielkie">
+                  <point x="14.650000000000091" y="-139.5" />
+                  <point x="1865.7632352941177" y="644.0" />
+                  <point x="2015.6132352941177" y="644.0" />
+                  <point x="0.0" y="59.0" />
+                </edge>
+                <edge source="pl.put.poznan.transformer.logic.ZwinSkrot" target="pl.put.poznan.transformer.logic.TransformedText">
+                  <point x="77.25" y="-59.0" />
+                  <point x="776.8632352941177" y="466.0" />
+                  <point x="1436.2799019607842" y="466.0" />
+                  <point x="-103.0" y="73.5" />
+                </edge>
+                <edge source="pl.put.poznan.transformer.logic.OdwrocZnaki" target="pl.put.poznan.transformer.logic.TransformedText">
+                  <point x="-77.25" y="-59.0" />
+                  <point x="2596.3632352941177" y="456.0" />
+                  <point x="1642.2799019607842" y="456.0" />
+                  <point x="103.0" y="73.5" />
+                </edge>
+                <edge source="pl.put.poznan.transformer.logic.NaFormatLatexa" target="pl.put.poznan.transformer.logic.TransformedText">
+                  <point x="77.25" y="-59.0" />
+                  <point x="1105.8632352941177" y="476.0" />
+                  <point x="1470.6132352941177" y="476.0" />
+                  <point x="-68.66666666666674" y="73.5" />
+                </edge>
+                <edge source="pl.put.poznan.transformer.logic.PierwszeWielkie" target="pl.put.poznan.transformer.logic.TransformedText">
+                  <point x="-77.25" y="-59.0" />
+                  <point x="1938.3632352941177" y="476.0" />
+                  <point x="1573.6132352941177" y="476.0" />
+                  <point x="34.333333333333485" y="73.5" />
+                </edge>
+                <edge source="pl.put.poznan.transformer.logic.Transformations" target="pl.put.poznan.transformer.logic.RozwinSkrot">
+                  <point x="102.54999999999995" y="-139.5" />
+                  <point x="1953.6632352941176" y="674.0" />
+                  <point x="3002.6132352941177" y="674.0" />
+                  <point x="0.0" y="59.0" />
+                </edge>
+                <edge source="pl.put.poznan.transformer.logic.Transformations" target="pl.put.poznan.transformer.logic.WszystkieMale">
+                  <point x="-43.950000000000045" y="-139.5" />
+                  <point x="1807.1632352941176" y="654.0" />
+                  <point x="1357.6132352941177" y="654.0" />
+                  <point x="0.0" y="59.0" />
+                </edge>
+                <edge source="pl.put.poznan.transformer.logic.UsunDuplikaty" target="pl.put.poznan.transformer.logic.TransformedText">
+                  <point x="-77.25" y="-59.0" />
+                  <point x="1609.3632352941177" y="486.0" />
+                  <point x="1539.2799019607842" y="486.0" />
+                  <point x="0.0" y="73.5" />
+                </edge>
+                <edge source="pl.put.poznan.transformer.logic.ZmienLiczbyNaSlowa" target="pl.put.poznan.transformer.logic.Generators">
+                  <point x="39.375" y="-59.0" />
+                  <point x="406.98823529411766" y="486.0" />
+                  <point x="427.86323529411766" y="486.0" />
+                  <point x="60.25" y="126.5" />
+                </edge>
+                <edge source="pl.put.poznan.transformer.logic.TText" target="pl.put.poznan.transformer.logic.Text">
+                  <point x="0.0" y="-45.5" />
+                  <point x="199.61323529411766" y="93.0" />
+                  <point x="1510.7028186274515" y="93.0" />
+                  <point x="-61.13333333333321" y="31.5" />
+                </edge>
+                <edge source="pl.put.poznan.transformer.logic.Main" target="pl.put.poznan.transformer.logic.Transformations">
+                  <point x="52.000000000000114" y="-31.5" />
+                  <point x="1027.7416666666668" y="1043.0" />
+                  <point x="1851.1132352941177" y="1043.0" />
+                  <point x="0.0" y="139.5" />
+                </edge>
+                <edge source="pl.put.poznan.transformer.logic.WszystkieMale" target="pl.put.poznan.transformer.logic.TransformedText">
+                  <point x="77.25" y="-59.0" />
+                  <point x="1434.8632352941177" y="486.0" />
+                  <point x="1504.9465686274511" y="486.0" />
+                  <point x="-34.33333333333326" y="73.5" />
+                </edge>
+                <edge source="pl.put.poznan.transformer.logic.Transformations" target="pl.put.poznan.transformer.logic.ZmienLiczbyNaSlowa">
+                  <point x="-131.85000000000014" y="-139.5" />
+                  <point x="1719.2632352941175" y="684.0" />
+                  <point x="367.61323529411766" y="684.0" />
+                  <point x="0.0" y="59.0" />
+                </edge>
+                <edge source="pl.put.poznan.transformer.logic.Transformations" target="pl.put.poznan.transformer.logic.ZwinSkrot">
+                  <point x="-102.55000000000018" y="-139.5" />
+                  <point x="1748.5632352941175" y="674.0" />
+                  <point x="699.6132352941177" y="674.0" />
+                  <point x="0.0" y="59.0" />
+                </edge>
+                <edge source="pl.put.poznan.transformer.logic.OdwrocZnaki" target="pl.put.poznan.transformer.logic.Text">
+                  <point x="77.25" y="-59.0" />
+                  <point x="2750.8632352941177" y="113.0" />
+                  <point x="1606.769485294118" y="113.0" />
+                  <point x="34.933333333333394" y="31.5" />
+                </edge>
+                <edge source="pl.put.poznan.transformer.logic.TransformationsTest" target="pl.put.poznan.transformer.logic.Text">
+                  <point x="91.33333333333348" y="-207.0" />
+                  <point x="2602.4493872549024" y="1043.0" />
+                  <point x="3176.3465686274512" y="1043.0" />
+                  <point x="3176.3465686274512" y="83.0" />
+                  <point x="1632.969485294118" y="83.0" />
+                  <point x="61.13333333333344" y="31.5" />
+                </edge>
+                <edge source="pl.put.poznan.transformer.logic.TransformedText" target="pl.put.poznan.transformer.logic.Text">
+                  <point x="-103.0" y="-73.5" />
+                  <point x="1436.2799019607842" y="143.0" />
+                  <point x="1554.369485294118" y="143.0" />
+                  <point x="-17.466666666666697" y="31.5" />
+                </edge>
+                <edge source="pl.put.poznan.transformer.logic.Transformations" target="pl.put.poznan.transformer.logic.Text">
+                  <point x="131.8499999999999" y="-139.5" />
+                  <point x="1982.9632352941176" y="684.0" />
+                  <point x="3167.6132352941177" y="684.0" />
+                  <point x="3167.6132352941177" y="93.0" />
+                  <point x="1624.2361519607848" y="93.0" />
+                  <point x="52.40000000000009" y="31.5" />
+                </edge>
+                <edge source="pl.put.poznan.transformer.logic.Transformations" target="pl.put.poznan.transformer.logic.OdwrocZnaki">
+                  <point x="73.25" y="-139.5" />
+                  <point x="1924.3632352941177" y="664.0" />
+                  <point x="2673.6132352941177" y="664.0" />
+                  <point x="0.0" y="59.0" />
+                </edge>
+                <edge source="pl.put.poznan.transformer.logic.WszystkieMale" target="pl.put.poznan.transformer.logic.Text">
+                  <point x="-77.25" y="-59.0" />
+                  <point x="1280.3632352941177" y="446.0" />
+                  <point x="1292.2799019607842" y="446.0" />
+                  <point x="1292.2799019607842" y="133.0" />
+                  <point x="1545.6361519607844" y="133.0" />
+                  <point x="-26.200000000000045" y="31.5" />
+                </edge>
+                <edge source="pl.put.poznan.transformer.logic.ZmienLiczbyNaSlowa" target="pl.put.poznan.transformer.logic.Text">
+                  <point x="-118.125" y="-59.0" />
+                  <point x="249.48823529411766" y="486.0" />
+                  <point x="212.04240196078422" y="486.0" />
+                  <point x="212.04240196078422" y="103.0" />
+                  <point x="1519.4361519607846" y="103.0" />
+                  <point x="-52.40000000000009" y="31.5" />
+                </edge>
+                <edge source="pl.put.poznan.transformer.rest.TextTransformerController" target="pl.put.poznan.transformer.logic.TextTransformer">
+                  <point x="65.0" y="-59.0" />
+                  <point x="195.0" y="1502.0" />
+                  <point x="192.0" y="1502.0" />
+                  <point x="63.5" y="59.5" />
+                </edge>
+                <edge source="pl.put.poznan.transformer.logic.Transformations" target="pl.put.poznan.transformer.logic.WszystkieWielkie">
+                  <point x="43.950000000000045" y="-139.5" />
+                  <point x="1895.0632352941177" y="654.0" />
+                  <point x="2344.6132352941177" y="654.0" />
+                  <point x="0.0" y="59.0" />
+                </edge>
+                <edge source="pl.put.poznan.transformer.logic.ZwinSkrot" target="pl.put.poznan.transformer.logic.Text">
+                  <point x="-77.25" y="-59.0" />
+                  <point x="622.3632352941177" y="113.0" />
+                  <point x="1528.1694852941177" y="113.0" />
+                  <point x="-43.66666666666674" y="31.5" />
+                </edge>
+                <edge source="pl.put.poznan.transformer.logic.TextTransformer" target="pl.put.poznan.transformer.logic.Transformations">
+                  <point x="63.5" y="-59.5" />
+                  <point x="192.0" y="1033.0" />
+                  <point x="1753.446568627451" y="1033.0" />
+                  <point x="-97.66666666666674" y="139.5" />
+                </edge>
+                <edge source="pl.put.poznan.transformer.logic.RozwinSkrot" target="pl.put.poznan.transformer.logic.Text">
+                  <point x="77.25" y="-59.0" />
+                  <point x="3079.8632352941177" y="103.0" />
+                  <point x="1615.5028186274512" y="103.0" />
+                  <point x="43.66666666666674" y="31.5" />
+                </edge>
+                <edge source="pl.put.poznan.transformer.logic.TransformationsTest" target="pl.put.poznan.transformer.logic.Transformations">
+                  <point x="0.0" y="-207.0" />
+                  <point x="2511.116053921569" y="1003.0" />
+                  <point x="1948.7799019607844" y="1003.0" />
+                  <point x="97.66666666666674" y="139.5" />
+                </edge>
+                <edge source="pl.put.poznan.transformer.logic.WszystkieWielkie" target="pl.put.poznan.transformer.logic.Text">
+                  <point x="77.25" y="-59.0" />
+                  <point x="2421.8632352941177" y="123.0" />
+                  <point x="1598.0361519607845" y="123.0" />
+                  <point x="26.200000000000045" y="31.5" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="0.8" x="646.5" y="814.25" />
+              <SelectedNodes />
+              <Categories>
+                <Category>Fields</Category>
+                <Category>Constructors</Category>
+                <Category>Methods</Category>
+                <Category>Properties</Category>
+                <Category>Inner Classes</Category>
+              </Categories>
+              <SCOPE>All</SCOPE>
+              <VISIBILITY>private</VISIBILITY>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -259,7 +384,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -346,6 +470,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
     </panes>
   </component>
@@ -362,7 +487,7 @@
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="RequestMappingsPanelOrder2" value="2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -376,7 +501,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Maven.Maven">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -535,45 +660,47 @@
       <workItem from="1515506063929" duration="603000" />
       <workItem from="1515507252510" duration="6147000" />
       <workItem from="1515514226165" duration="276000" />
-      <workItem from="1515526414741" duration="7682000" />
+      <workItem from="1515526414741" duration="8277000" />
+      <workItem from="1515570266376" duration="1193000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14973000" />
+    <option name="totallyTimeSpent" value="16761000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1098" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294979" sideWeight="0.50208336" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3294979" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294979" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -869,14 +996,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/put/poznan/transformer/logic/RozwinSkrot.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="3" lean-forward="false" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/put/poznan/transformer/logic/PierwszeWielkie.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="21">
@@ -901,6 +1020,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/put/poznan/transformer/app/TextTransformerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="7" lean-forward="false" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/put/poznan/transformer/logic/RozwinSkrot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="3" lean-forward="false" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/put/poznan/transformer/logic/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -909,13 +1046,290 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/put/poznan/transformer/app/TextTransformerApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="7" lean-forward="false" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+    <entry file="uml://JAVA/pl.put.poznan.transformer.logic.Main">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>pl.put.poznan.transformer.logic.Main</OriginalElement>
+          <nodes>
+            <node x="0.0" y="1690.0">pl.put.poznan.transformer.app.TextTransformerApplication</node>
+            <node x="210.11323529411766" y="506.0">pl.put.poznan.transformer.logic.ZmienLiczbyNaSlowa</node>
+            <node x="2519.1132352941177" y="506.0">pl.put.poznan.transformer.logic.OdwrocZnaki</node>
+            <node x="1506.3361519607847" y="0.0">pl.put.poznan.transformer.logic.Text</node>
+            <node x="247.11323529411766" y="173.0">pl.put.poznan.transformer.logic.Generators</node>
+            <node x="1861.1132352941177" y="506.0">pl.put.poznan.transformer.logic.PierwszeWielkie</node>
+            <node x="1203.1132352941177" y="506.0">pl.put.poznan.transformer.logic.WszystkieMale</node>
+            <node x="2374.116053921569" y="1063.0">pl.put.poznan.transformer.logic.TransformationsTest</node>
+            <node x="1384.7799019607842" y="226.0">pl.put.poznan.transformer.logic.TransformedText</node>
+            <node x="0.0" y="1527.0">pl.put.poznan.transformer.rest.TextTransformerController</node>
+            <node x="2190.1132352941177" y="506.0">pl.put.poznan.transformer.logic.WszystkieWielkie</node>
+            <node x="545.1132352941177" y="506.0">pl.put.poznan.transformer.logic.ZwinSkrot</node>
+            <node x="1532.1132352941177" y="506.0">pl.put.poznan.transformer.logic.UsunDuplikaty</node>
+            <node x="1704.6132352941177" y="704.0">pl.put.poznan.transformer.logic.Transformations</node>
+            <node x="2848.1132352941177" y="506.0">pl.put.poznan.transformer.logic.RozwinSkrot</node>
+            <node x="1.5" y="1210.5">pl.put.poznan.transformer.logic.TextTransformer</node>
+            <node x="113.61323529411766" y="798.0">pl.put.poznan.transformer.logic.TText</node>
+            <node x="874.1132352941177" y="506.0">pl.put.poznan.transformer.logic.NaFormatLatexa</node>
+            <node x="871.7416666666667" y="1238.5">pl.put.poznan.transformer.logic.Main</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="pl.put.poznan.transformer.logic.Transformations" target="pl.put.poznan.transformer.logic.UsunDuplikaty">
+              <point x="-14.650000000000091" y="-139.5" />
+              <point x="1836.4632352941176" y="644.0" />
+              <point x="1686.6132352941177" y="644.0" />
+              <point x="0.0" y="59.0" />
+            </edge>
+            <edge source="pl.put.poznan.transformer.logic.WszystkieWielkie" target="pl.put.poznan.transformer.logic.TransformedText">
+              <point x="-77.25" y="-59.0" />
+              <point x="2267.3632352941177" y="466.0" />
+              <point x="1607.9465686274511" y="466.0" />
+              <point x="68.66666666666674" y="73.5" />
+            </edge>
+            <edge source="pl.put.poznan.transformer.logic.Main" target="pl.put.poznan.transformer.logic.TText">
+              <point x="-51.999999999999886" y="-31.5" />
+              <point x="923.7416666666668" y="1023.0" />
+              <point x="199.61323529411766" y="1023.0" />
+              <point x="0.0" y="45.5" />
+            </edge>
+            <edge source="pl.put.poznan.transformer.logic.PierwszeWielkie" target="pl.put.poznan.transformer.logic.Text">
+              <point x="77.25" y="-59.0" />
+              <point x="2092.8632352941177" y="133.0" />
+              <point x="1589.3028186274514" y="133.0" />
+              <point x="17.466666666666697" y="31.5" />
+            </edge>
+            <edge source="pl.put.poznan.transformer.logic.Transformations" target="pl.put.poznan.transformer.logic.NaFormatLatexa">
+              <point x="-73.25" y="-139.5" />
+              <point x="1777.8632352941177" y="664.0" />
+              <point x="1028.6132352941177" y="664.0" />
+              <point x="0.0" y="59.0" />
+            </edge>
+            <edge source="pl.put.poznan.transformer.logic.ZmienLiczbyNaSlowa" target="pl.put.poznan.transformer.logic.TransformedText">
+              <point x="118.125" y="-59.0" />
+              <point x="485.73823529411766" y="456.0" />
+              <point x="1401.9465686274511" y="456.0" />
+              <point x="-137.33333333333326" y="73.5" />
+            </edge>
+            <edge source="pl.put.poznan.transformer.logic.UsunDuplikaty" target="pl.put.poznan.transformer.logic.Text">
+              <point x="77.25" y="-59.0" />
+              <point x="1763.8632352941177" y="486.0" />
+              <point x="1769.1132352941177" y="486.0" />
+              <point x="1769.1132352941177" y="143.0" />
+              <point x="1580.5694852941178" y="143.0" />
+              <point x="8.733333333333348" y="31.5" />
+            </edge>
+            <edge source="pl.put.poznan.transformer.logic.NaFormatLatexa" target="pl.put.poznan.transformer.logic.Text">
+              <point x="-77.25" y="-59.0" />
+              <point x="951.3632352941177" y="123.0" />
+              <point x="1536.9028186274513" y="123.0" />
+              <point x="-34.933333333333394" y="31.5" />
+            </edge>
+            <edge source="pl.put.poznan.transformer.logic.TransformationsTest" target="pl.put.poznan.transformer.logic.TText">
+              <point x="-91.33333333333348" y="-207.0" />
+              <point x="2419.7827205882354" y="1013.0" />
+              <point x="256.9465686274509" y="1013.0" />
+              <point x="57.33333333333337" y="45.5" />
+            </edge>
+            <edge source="pl.put.poznan.transformer.logic.RozwinSkrot" target="pl.put.poznan.transformer.logic.TransformedText">
+              <point x="-77.25" y="-59.0" />
+              <point x="2925.3632352941177" y="446.0" />
+              <point x="1676.6132352941177" y="446.0" />
+              <point x="137.33333333333348" y="73.5" />
+            </edge>
+            <edge source="pl.put.poznan.transformer.logic.TextTransformer" target="pl.put.poznan.transformer.logic.TText">
+              <point x="-63.5" y="-59.5" />
+              <point x="65.0" y="1043.0" />
+              <point x="142.2799019607844" y="1043.0" />
+              <point x="-57.33333333333334" y="45.5" />
+            </edge>
+            <edge source="pl.put.poznan.transformer.logic.Transformations" target="pl.put.poznan.transformer.logic.PierwszeWielkie">
+              <point x="14.650000000000091" y="-139.5" />
+              <point x="1865.7632352941177" y="644.0" />
+              <point x="2015.6132352941177" y="644.0" />
+              <point x="0.0" y="59.0" />
+            </edge>
+            <edge source="pl.put.poznan.transformer.logic.ZwinSkrot" target="pl.put.poznan.transformer.logic.TransformedText">
+              <point x="77.25" y="-59.0" />
+              <point x="776.8632352941177" y="466.0" />
+              <point x="1436.2799019607842" y="466.0" />
+              <point x="-103.0" y="73.5" />
+            </edge>
+            <edge source="pl.put.poznan.transformer.logic.OdwrocZnaki" target="pl.put.poznan.transformer.logic.TransformedText">
+              <point x="-77.25" y="-59.0" />
+              <point x="2596.3632352941177" y="456.0" />
+              <point x="1642.2799019607842" y="456.0" />
+              <point x="103.0" y="73.5" />
+            </edge>
+            <edge source="pl.put.poznan.transformer.logic.NaFormatLatexa" target="pl.put.poznan.transformer.logic.TransformedText">
+              <point x="77.25" y="-59.0" />
+              <point x="1105.8632352941177" y="476.0" />
+              <point x="1470.6132352941177" y="476.0" />
+              <point x="-68.66666666666674" y="73.5" />
+            </edge>
+            <edge source="pl.put.poznan.transformer.logic.PierwszeWielkie" target="pl.put.poznan.transformer.logic.TransformedText">
+              <point x="-77.25" y="-59.0" />
+              <point x="1938.3632352941177" y="476.0" />
+              <point x="1573.6132352941177" y="476.0" />
+              <point x="34.333333333333485" y="73.5" />
+            </edge>
+            <edge source="pl.put.poznan.transformer.logic.Transformations" target="pl.put.poznan.transformer.logic.RozwinSkrot">
+              <point x="102.54999999999995" y="-139.5" />
+              <point x="1953.6632352941176" y="674.0" />
+              <point x="3002.6132352941177" y="674.0" />
+              <point x="0.0" y="59.0" />
+            </edge>
+            <edge source="pl.put.poznan.transformer.logic.Transformations" target="pl.put.poznan.transformer.logic.WszystkieMale">
+              <point x="-43.950000000000045" y="-139.5" />
+              <point x="1807.1632352941176" y="654.0" />
+              <point x="1357.6132352941177" y="654.0" />
+              <point x="0.0" y="59.0" />
+            </edge>
+            <edge source="pl.put.poznan.transformer.logic.UsunDuplikaty" target="pl.put.poznan.transformer.logic.TransformedText">
+              <point x="-77.25" y="-59.0" />
+              <point x="1609.3632352941177" y="486.0" />
+              <point x="1539.2799019607842" y="486.0" />
+              <point x="0.0" y="73.5" />
+            </edge>
+            <edge source="pl.put.poznan.transformer.logic.ZmienLiczbyNaSlowa" target="pl.put.poznan.transformer.logic.Generators">
+              <point x="39.375" y="-59.0" />
+              <point x="406.98823529411766" y="486.0" />
+              <point x="427.86323529411766" y="486.0" />
+              <point x="60.25" y="126.5" />
+            </edge>
+            <edge source="pl.put.poznan.transformer.logic.TText" target="pl.put.poznan.transformer.logic.Text">
+              <point x="0.0" y="-45.5" />
+              <point x="199.61323529411766" y="93.0" />
+              <point x="1510.7028186274515" y="93.0" />
+              <point x="-61.13333333333321" y="31.5" />
+            </edge>
+            <edge source="pl.put.poznan.transformer.logic.Main" target="pl.put.poznan.transformer.logic.Transformations">
+              <point x="52.000000000000114" y="-31.5" />
+              <point x="1027.7416666666668" y="1043.0" />
+              <point x="1851.1132352941177" y="1043.0" />
+              <point x="0.0" y="139.5" />
+            </edge>
+            <edge source="pl.put.poznan.transformer.logic.WszystkieMale" target="pl.put.poznan.transformer.logic.TransformedText">
+              <point x="77.25" y="-59.0" />
+              <point x="1434.8632352941177" y="486.0" />
+              <point x="1504.9465686274511" y="486.0" />
+              <point x="-34.33333333333326" y="73.5" />
+            </edge>
+            <edge source="pl.put.poznan.transformer.logic.Transformations" target="pl.put.poznan.transformer.logic.ZmienLiczbyNaSlowa">
+              <point x="-131.85000000000014" y="-139.5" />
+              <point x="1719.2632352941175" y="684.0" />
+              <point x="367.61323529411766" y="684.0" />
+              <point x="0.0" y="59.0" />
+            </edge>
+            <edge source="pl.put.poznan.transformer.logic.Transformations" target="pl.put.poznan.transformer.logic.ZwinSkrot">
+              <point x="-102.55000000000018" y="-139.5" />
+              <point x="1748.5632352941175" y="674.0" />
+              <point x="699.6132352941177" y="674.0" />
+              <point x="0.0" y="59.0" />
+            </edge>
+            <edge source="pl.put.poznan.transformer.logic.OdwrocZnaki" target="pl.put.poznan.transformer.logic.Text">
+              <point x="77.25" y="-59.0" />
+              <point x="2750.8632352941177" y="113.0" />
+              <point x="1606.769485294118" y="113.0" />
+              <point x="34.933333333333394" y="31.5" />
+            </edge>
+            <edge source="pl.put.poznan.transformer.logic.TransformationsTest" target="pl.put.poznan.transformer.logic.Text">
+              <point x="91.33333333333348" y="-207.0" />
+              <point x="2602.4493872549024" y="1043.0" />
+              <point x="3176.3465686274512" y="1043.0" />
+              <point x="3176.3465686274512" y="83.0" />
+              <point x="1632.969485294118" y="83.0" />
+              <point x="61.13333333333344" y="31.5" />
+            </edge>
+            <edge source="pl.put.poznan.transformer.logic.TransformedText" target="pl.put.poznan.transformer.logic.Text">
+              <point x="-103.0" y="-73.5" />
+              <point x="1436.2799019607842" y="143.0" />
+              <point x="1554.369485294118" y="143.0" />
+              <point x="-17.466666666666697" y="31.5" />
+            </edge>
+            <edge source="pl.put.poznan.transformer.logic.Transformations" target="pl.put.poznan.transformer.logic.Text">
+              <point x="131.8499999999999" y="-139.5" />
+              <point x="1982.9632352941176" y="684.0" />
+              <point x="3167.6132352941177" y="684.0" />
+              <point x="3167.6132352941177" y="93.0" />
+              <point x="1624.2361519607848" y="93.0" />
+              <point x="52.40000000000009" y="31.5" />
+            </edge>
+            <edge source="pl.put.poznan.transformer.logic.Transformations" target="pl.put.poznan.transformer.logic.OdwrocZnaki">
+              <point x="73.25" y="-139.5" />
+              <point x="1924.3632352941177" y="664.0" />
+              <point x="2673.6132352941177" y="664.0" />
+              <point x="0.0" y="59.0" />
+            </edge>
+            <edge source="pl.put.poznan.transformer.logic.WszystkieMale" target="pl.put.poznan.transformer.logic.Text">
+              <point x="-77.25" y="-59.0" />
+              <point x="1280.3632352941177" y="446.0" />
+              <point x="1292.2799019607842" y="446.0" />
+              <point x="1292.2799019607842" y="133.0" />
+              <point x="1545.6361519607844" y="133.0" />
+              <point x="-26.200000000000045" y="31.5" />
+            </edge>
+            <edge source="pl.put.poznan.transformer.logic.ZmienLiczbyNaSlowa" target="pl.put.poznan.transformer.logic.Text">
+              <point x="-118.125" y="-59.0" />
+              <point x="249.48823529411766" y="486.0" />
+              <point x="212.04240196078422" y="486.0" />
+              <point x="212.04240196078422" y="103.0" />
+              <point x="1519.4361519607846" y="103.0" />
+              <point x="-52.40000000000009" y="31.5" />
+            </edge>
+            <edge source="pl.put.poznan.transformer.rest.TextTransformerController" target="pl.put.poznan.transformer.logic.TextTransformer">
+              <point x="65.0" y="-59.0" />
+              <point x="195.0" y="1502.0" />
+              <point x="192.0" y="1502.0" />
+              <point x="63.5" y="59.5" />
+            </edge>
+            <edge source="pl.put.poznan.transformer.logic.Transformations" target="pl.put.poznan.transformer.logic.WszystkieWielkie">
+              <point x="43.950000000000045" y="-139.5" />
+              <point x="1895.0632352941177" y="654.0" />
+              <point x="2344.6132352941177" y="654.0" />
+              <point x="0.0" y="59.0" />
+            </edge>
+            <edge source="pl.put.poznan.transformer.logic.ZwinSkrot" target="pl.put.poznan.transformer.logic.Text">
+              <point x="-77.25" y="-59.0" />
+              <point x="622.3632352941177" y="113.0" />
+              <point x="1528.1694852941177" y="113.0" />
+              <point x="-43.66666666666674" y="31.5" />
+            </edge>
+            <edge source="pl.put.poznan.transformer.logic.TextTransformer" target="pl.put.poznan.transformer.logic.Transformations">
+              <point x="63.5" y="-59.5" />
+              <point x="192.0" y="1033.0" />
+              <point x="1753.446568627451" y="1033.0" />
+              <point x="-97.66666666666674" y="139.5" />
+            </edge>
+            <edge source="pl.put.poznan.transformer.logic.RozwinSkrot" target="pl.put.poznan.transformer.logic.Text">
+              <point x="77.25" y="-59.0" />
+              <point x="3079.8632352941177" y="103.0" />
+              <point x="1615.5028186274512" y="103.0" />
+              <point x="43.66666666666674" y="31.5" />
+            </edge>
+            <edge source="pl.put.poznan.transformer.logic.TransformationsTest" target="pl.put.poznan.transformer.logic.Transformations">
+              <point x="0.0" y="-207.0" />
+              <point x="2511.116053921569" y="1003.0" />
+              <point x="1948.7799019607844" y="1003.0" />
+              <point x="97.66666666666674" y="139.5" />
+            </edge>
+            <edge source="pl.put.poznan.transformer.logic.WszystkieWielkie" target="pl.put.poznan.transformer.logic.Text">
+              <point x="77.25" y="-59.0" />
+              <point x="2421.8632352941177" y="123.0" />
+              <point x="1598.0361519607845" y="123.0" />
+              <point x="26.200000000000045" y="31.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.8" x="646.5" y="814.25" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
         </state>
       </provider>
     </entry>
