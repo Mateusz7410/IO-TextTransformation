@@ -7,11 +7,19 @@ class NaFormatLatexa extends TransformedText{
         super(text);
     }
 
+    /**
+     * Nadpisanie metody z klasy abstrakcyjnej.
+     */
     @Override
     protected String getTransformedText(String text){
         return naFormatLatexa(text);
     }
 
+    /**
+     * Metoda przekształcająca znaki "&" oraz "$" na format obsługiwany przez Latexa tzn.  zamieniająca je na odpowiednio "\&" oraz "\$"
+     * & -> \&
+     * $ -> \$
+     */
     public String naFormatLatexa(String text){
         //& -> \&
         //$ -> \$

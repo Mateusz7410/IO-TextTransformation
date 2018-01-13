@@ -12,8 +12,10 @@ class OdwrocZnaki extends TransformedText{
         return odwrocZnaki(text);
     }
 
+    /**
+     * Metoda odwracająca kolejność wyrażenia z zachowaniem wielkości znaków na poszczególnych pozycjach.
+     */
     public String odwrocZnaki(String text){
-        //AbCdeFG -> GfEdcBA
         char[] arr = text.toCharArray();
         String result="";
         int end=arr.length-1;

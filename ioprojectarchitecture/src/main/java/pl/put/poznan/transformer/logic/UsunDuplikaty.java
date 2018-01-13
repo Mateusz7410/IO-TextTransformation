@@ -7,11 +7,17 @@ class UsunDuplikaty extends TransformedText {
         super(text);
     }
 
+    /**
+     * Nadpisanie metody z klasy abstrakcyjnej.
+     */
     @Override
     protected String getTransformedText(String text){
         return usunDuplikaty(text);
     }
 
+    /**
+     * Metoda redukująca zbiór powtarzających się pod rząd słów do jednego wystąpienia.
+     */
     public String usunDuplikaty(String text){
         //a a a b b -> a b
         String[] arr = text.split(" ");
