@@ -16,7 +16,8 @@ public class Main {
                 "-zs            Zwiń obsługiwane przez nas skróty\n" +
                 "-fl            Przekształć na forme Latex\n" +
                 "-oz            Odwróć ciąg znaków\n" +
-                "-ud            Usuń duplikaty\n");
+                "-ud            Usuń duplikaty\n" +
+                "-up            Usuń polskie znaki diaktryczne\n");
         String przemiany = odczyt.nextLine();
         przemiany = przemiany.replace(" ", "");
         String[] listaPrzemian = przemiany.split("-");
@@ -48,6 +49,9 @@ public class Main {
             }
             if(listaPrzemian[i].equals("ud")){
                 text = Transformations.usunDuplikaty(new TText(text)).getText();
+            }
+            if(listaPrzemian[i].equals("up")){
+                text = Transformations.usunPolskie(new TText(text)).getText();
             }
         }
 

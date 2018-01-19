@@ -38,4 +38,8 @@ public class Transformations {
     public static Text usunDuplikaty(Text text){
         return new UsunDuplikaty(text);
     }
+
+    public static Text usunPolskie(Text text){
+        return new UsunPolskie(text);
+    }
 }

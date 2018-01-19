@@ -50,6 +50,9 @@ public class TextTransformer {
             if(transforms[i].equals("ud")){
                 text = Transformations.usunDuplikaty(new TText(text)).getText();
             }
+            if(transforms[i].equals("up")){
+                text = Transformations.usunPolskie(new TText(text)).getText();
+            }
         }
         return text;
     }
