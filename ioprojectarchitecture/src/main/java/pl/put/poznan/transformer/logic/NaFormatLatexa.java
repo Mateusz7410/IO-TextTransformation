@@ -16,9 +16,7 @@ class NaFormatLatexa extends TransformedText{
     }
 
     /**
-     * Metoda przekształcająca znaki "&" oraz "$" na format obsługiwany przez Latexa tzn.  zamieniająca je na odpowiednio "\&" oraz "\$"
-     * & -> \&
-     * $ -> \$
+     * Metoda przekształcająca znaki na format obsługiwany przez Latexa.
      */
     public String naFormatLatexa(String text){
         //& -> \&

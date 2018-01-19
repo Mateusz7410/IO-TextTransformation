@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="pl.put.poznan.transformer.app.TransformForm">
+  <grid id="27dc6" layout-manager="GridLayoutManager" row-count="4" column-count="10" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+    <margin top="0" left="0" bottom="0" right="0"/>
+    <constraints>
+      <xy x="28" y="20" width="1460" height="459"/>
+    </constraints>
+    <properties/>
+    <border type="none"/>
+    <children>
+      <component id="5345c" class="javax.swing.JButton" binding="latexButton" default-binding="true">
+        <constraints>
+          <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Latex"/>
+        </properties>
+      </component>
+      <component id="dd8c4" class="javax.swing.JButton" binding="odwróćButton" default-binding="true">
+        <constraints>
+          <grid row="1" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Odwróć"/>
+        </properties>
+      </component>
+      <component id="7f8f5" class="javax.swing.JButton" binding="pierwszeWielkieButton" default-binding="true">
+        <constraints>
+          <grid row="1" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Pierwsze Wielkie"/>
+        </properties>
+      </component>
+      <component id="d242c" class="javax.swing.JButton" binding="rozwińSkrótButton" default-binding="true">
+        <constraints>
+          <grid row="1" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Rozwiń Skrót"/>
+        </properties>
+      </component>
+      <component id="4e49d" class="javax.swing.JButton" binding="usunDuplikatyButton" default-binding="true">
+        <constraints>
+          <grid row="1" column="4" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Usun Duplikaty"/>
+        </properties>
+      </component>
+      <component id="ab7ac" class="javax.swing.JButton" binding="usunPolskieButton" default-binding="true">
+        <constraints>
+          <grid row="1" column="5" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Usun Polskie"/>
+        </properties>
+      </component>
+      <component id="8bd1d" class="javax.swing.JButton" binding="wszystkieMałeButton" default-binding="true">
+        <constraints>
+          <grid row="1" column="6" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Wszystkie Małe"/>
+        </properties>
+      </component>
+      <component id="a9348" class="javax.swing.JButton" binding="wszystkieWielkieButton" default-binding="true">
+        <constraints>
+          <grid row="1" column="7" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Wszystkie Wielkie"/>
+        </properties>
+      </component>
+      <component id="66562" class="javax.swing.JButton" binding="liczbyNaSłowaButton" default-binding="true">
+        <constraints>
+          <grid row="1" column="8" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Liczby Na Słowa"/>
+        </properties>
+      </component>
+      <component id="a18a4" class="javax.swing.JButton" binding="zwińSkrótButton" default-binding="true">
+        <constraints>
+          <grid row="1" column="9" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Zwiń Skrót"/>
+        </properties>
+      </component>
+      <component id="e6dac" class="javax.swing.JTextArea" binding="qweTextArea" default-binding="true">
+        <constraints>
+          <grid row="0" column="0" row-span="1" col-span="10" vsize-policy="6" hsize-policy="6" anchor="0" fill="3" indent="0" use-parent-layout="false">
+            <preferred-size width="150" height="50"/>
+          </grid>
+        </constraints>
+        <properties>
+          <text value="qwe"/>
+        </properties>
+      </component>
+      <component id="e9b2d" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="2" column="4" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Przetranformowany tekst"/>
+        </properties>
+      </component>
+      <component id="b93a9" class="javax.swing.JTextPane" binding="customTextTextPane" default-binding="true">
+        <constraints>
+          <grid row="3" column="0" row-span="1" col-span="10" vsize-policy="6" hsize-policy="6" anchor="0" fill="3" indent="0" use-parent-layout="false">
+            <preferred-size width="150" height="50"/>
+          </grid>
+        </constraints>
+        <properties>
+          <text value="custom text"/>
+        </properties>
+      </component>
+      <component id="e48d0" class="javax.swing.JButton" binding="cofnijTransformacjeButton" default-binding="true">
+        <constraints>
+          <grid row="2" column="0" row-span="1" col-span="3" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Cofnij transformacje"/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+</form>
