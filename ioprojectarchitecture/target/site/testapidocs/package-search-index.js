@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"pl.put.poznan.transformer.logic"}]

@@ -2,124 +2,207 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8bd6110-5258-490d-a1b3-907f15a29326" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/pl/put/poznan/transformer/app/TransformForm.form" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/pl/put/poznan/transformer/app/TransformForm.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javadoc-bundle-options/javadoc-options-javadoc-resources.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javadoc-bundle-options/package-list" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/allclasses-frame.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/allclasses-noframe.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/constant-values.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/deprecated-list.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/help-doc.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/index-all.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/jquery/external/jquery/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/jquery/images/ui-bg_flat_0_aaaaaa_40x100.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/jquery/images/ui-bg_flat_75_ffffff_40x100.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/jquery/images/ui-bg_glass_55_fbf9ee_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/jquery/images/ui-bg_glass_65_ffffff_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/jquery/images/ui-bg_glass_75_dadada_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/jquery/images/ui-bg_glass_75_e6e6e6_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/jquery/images/ui-bg_glass_95_fef1ec_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/jquery/images/ui-bg_highlight-soft_75_cccccc_1x100.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/jquery/images/ui-icons_222222_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/jquery/images/ui-icons_2e83ff_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/jquery/images/ui-icons_454545_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/jquery/images/ui-icons_888888_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/jquery/images/ui-icons_cd0a0a_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/jquery/jquery-1.10.2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/jquery/jquery-ui.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/jquery/jquery-ui.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/jquery/jquery-ui.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/jquery/jquery-ui.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/jquery/jquery-ui.structure.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/jquery/jquery-ui.structure.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/jquery/jszip-utils/dist/jszip-utils-ie.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/jquery/jszip-utils/dist/jszip-utils-ie.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/jquery/jszip-utils/dist/jszip-utils.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/jquery/jszip-utils/dist/jszip-utils.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/jquery/jszip/dist/jszip.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/jquery/jszip/dist/jszip.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/member-search-index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/member-search-index.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/overview-frame.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/overview-summary.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/overview-tree.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/package-list" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/package-search-index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/package-search-index.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/app/TextTransformerApplication.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/app/TransformForm.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/app/class-use/TextTransformerApplication.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/app/class-use/TransformForm.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/app/package-frame.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/app/package-summary.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/app/package-tree.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/app/package-use.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/Generators.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/Main.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/NaFormatLatexa.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/OdwrocZnaki.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/PierwszeWielkie.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/RozwinSkrot.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/TText.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/Text.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/TextTransformer.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/Transformations.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/TransformedText.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/UsunDuplikaty.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/UsunPolskie.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/WszystkieMale.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/WszystkieWielkie.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/ZmienLiczbyNaSlowa.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/ZwinSkrot.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/class-use/Generators.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/class-use/Main.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/class-use/NaFormatLatexa.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/class-use/OdwrocZnaki.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/class-use/PierwszeWielkie.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/class-use/RozwinSkrot.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/class-use/TText.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/class-use/Text.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/class-use/TextTransformer.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/class-use/Transformations.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/class-use/TransformedText.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/class-use/UsunDuplikaty.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/class-use/UsunPolskie.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/class-use/WszystkieMale.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/class-use/WszystkieWielkie.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/class-use/ZmienLiczbyNaSlowa.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/class-use/ZwinSkrot.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/package-frame.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/package-summary.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/package-tree.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/package-use.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/rest/IndexController.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/rest/TextTransformerController.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/rest/class-use/IndexController.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/rest/class-use/TextTransformerController.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/rest/package-frame.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/rest/package-summary.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/rest/package-tree.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/rest/package-use.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/resources/glass.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/resources/x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/script.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/search.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/stylesheet.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/type-search-index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/apidocs/type-search-index.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/css/maven-base.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/css/maven-theme.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/css/print.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/css/site.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/dependencies.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/dependency-info.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/dependency-management.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/images/close.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/images/collapsed.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/images/expanded.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/images/external.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/images/icon_error_sml.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/images/icon_info_sml.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/images/icon_success_sml.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/images/icon_warning_sml.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/images/logos/build-by-maven-black.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/images/logos/build-by-maven-white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/images/logos/maven-feather.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/images/newwindow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/license.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/plugin-management.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/plugins.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/project-info.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/project-reports.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/project-summary.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/source-repository.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/surefire-report.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/team-list.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/testapidocs/allclasses-frame.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/testapidocs/allclasses-noframe.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/testapidocs/constant-values.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/testapidocs/deprecated-list.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/testapidocs/help-doc.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/testapidocs/index-all.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/testapidocs/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/testapidocs/jquery/external/jquery/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/testapidocs/jquery/images/ui-bg_flat_0_aaaaaa_40x100.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/testapidocs/jquery/images/ui-bg_flat_75_ffffff_40x100.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/testapidocs/jquery/images/ui-bg_glass_55_fbf9ee_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/testapidocs/jquery/images/ui-bg_glass_65_ffffff_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/testapidocs/jquery/images/ui-bg_glass_75_dadada_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/testapidocs/jquery/images/ui-bg_glass_75_e6e6e6_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/testapidocs/jquery/images/ui-bg_glass_95_fef1ec_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/testapidocs/jquery/images/ui-bg_highlight-soft_75_cccccc_1x100.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/testapidocs/jquery/images/ui-icons_222222_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/testapidocs/jquery/images/ui-icons_2e83ff_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/testapidocs/jquery/images/ui-icons_454545_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/testapidocs/jquery/images/ui-icons_888888_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/testapidocs/jquery/images/ui-icons_cd0a0a_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/testapidocs/jquery/jquery-1.10.2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/testapidocs/jquery/jquery-ui.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/testapidocs/jquery/jquery-ui.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/testapidocs/jquery/jquery-ui.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/testapidocs/jquery/jquery-ui.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/testapidocs/jquery/jquery-ui.structure.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/testapidocs/jquery/jquery-ui.structure.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/testapidocs/jquery/jszip-utils/dist/jszip-utils-ie.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/testapidocs/jquery/jszip-utils/dist/jszip-utils-ie.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/testapidocs/jquery/jszip-utils/dist/jszip-utils.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/testapidocs/jquery/jszip-utils/dist/jszip-utils.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/testapidocs/jquery/jszip/dist/jszip.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/testapidocs/jquery/jszip/dist/jszip.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/testapidocs/member-search-index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/testapidocs/member-search-index.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/testapidocs/overview-tree.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/testapidocs/package-list" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/testapidocs/package-search-index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/testapidocs/package-search-index.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/testapidocs/pl/put/poznan/transformer/logic/TransformationsTest.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/testapidocs/pl/put/poznan/transformer/logic/UsunPolskieTest.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/testapidocs/pl/put/poznan/transformer/logic/class-use/TransformationsTest.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/testapidocs/pl/put/poznan/transformer/logic/class-use/UsunPolskieTest.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/testapidocs/pl/put/poznan/transformer/logic/package-frame.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/testapidocs/pl/put/poznan/transformer/logic/package-summary.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/testapidocs/pl/put/poznan/transformer/logic/package-tree.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/testapidocs/pl/put/poznan/transformer/logic/package-use.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/testapidocs/resources/glass.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/testapidocs/resources/x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/testapidocs/script.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/testapidocs/search.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/testapidocs/stylesheet.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/testapidocs/type-search-index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/testapidocs/type-search-index.zip" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/pl/put/poznan/transformer/app/TextTransformerApplication.class" afterPath="$PROJECT_DIR$/target/classes/pl/put/poznan/transformer/app/TextTransformerApplication.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/pl/put/poznan/transformer/logic/Main.class" afterPath="$PROJECT_DIR$/target/classes/pl/put/poznan/transformer/logic/Main.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/pl/put/poznan/transformer/logic/NaFormatLatexa.class" afterPath="$PROJECT_DIR$/target/classes/pl/put/poznan/transformer/logic/NaFormatLatexa.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/pl/put/poznan/transformer/logic/OdwrocZnaki.class" afterPath="$PROJECT_DIR$/target/classes/pl/put/poznan/transformer/logic/OdwrocZnaki.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/pl/put/poznan/transformer/logic/UsunDuplikaty.class" afterPath="$PROJECT_DIR$/target/classes/pl/put/poznan/transformer/logic/UsunDuplikaty.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/pl/put/poznan/transformer/logic/UsunPolskie.class" afterPath="$PROJECT_DIR$/target/classes/pl/put/poznan/transformer/logic/UsunPolskie.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/pl/put/poznan/transformer/app/TransformForm.class" afterPath="$PROJECT_DIR$/target/classes/pl/put/poznan/transformer/app/TransformForm.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/io-project-architecture-0.1.jar" afterPath="$PROJECT_DIR$/target/io-project-architecture-0.1.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/io-project-architecture-0.1.jar.original" afterPath="$PROJECT_DIR$/target/io-project-architecture-0.1.jar.original" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/member-search-index.zip" afterPath="$PROJECT_DIR$/target/site/apidocs/member-search-index.zip" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/package-search-index.zip" afterPath="$PROJECT_DIR$/target/site/apidocs/package-search-index.zip" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/type-search-index.zip" afterPath="$PROJECT_DIR$/target/site/apidocs/type-search-index.zip" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/testapidocs/member-search-index.zip" afterPath="$PROJECT_DIR$/target/site/testapidocs/member-search-index.zip" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/testapidocs/package-search-index.zip" afterPath="$PROJECT_DIR$/target/site/testapidocs/package-search-index.zip" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/testapidocs/type-search-index.zip" afterPath="$PROJECT_DIR$/target/site/testapidocs/type-search-index.zip" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/pl/put/poznan/transformer/logic/TransformationsTest.class" afterPath="$PROJECT_DIR$/target/test-classes/pl/put/poznan/transformer/logic/TransformationsTest.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/io-project-architecture.iml" afterPath="$PROJECT_DIR$/io-project-architecture.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/pl/put/poznan/transformer/app/TextTransformerApplication.java" afterPath="$PROJECT_DIR$/src/main/java/pl/put/poznan/transformer/app/TextTransformerApplication.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/pl/put/poznan/transformer/logic/NaFormatLatexa.java" afterPath="$PROJECT_DIR$/src/main/java/pl/put/poznan/transformer/logic/NaFormatLatexa.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/pl/put/poznan/transformer/logic/UsunPolskie.java" afterPath="$PROJECT_DIR$/src/main/java/pl/put/poznan/transformer/logic/UsunPolskie.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/application.properties" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/application.properties" afterPath="$PROJECT_DIR$/target/classes/application.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/allclasses-frame.html" afterPath="$PROJECT_DIR$/target/site/apidocs/allclasses-frame.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/allclasses-noframe.html" afterPath="$PROJECT_DIR$/target/site/apidocs/allclasses-noframe.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/constant-values.html" afterPath="$PROJECT_DIR$/target/site/apidocs/constant-values.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/deprecated-list.html" afterPath="$PROJECT_DIR$/target/site/apidocs/deprecated-list.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/help-doc.html" afterPath="$PROJECT_DIR$/target/site/apidocs/help-doc.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/index-all.html" afterPath="$PROJECT_DIR$/target/site/apidocs/index-all.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/index.html" afterPath="$PROJECT_DIR$/target/site/apidocs/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/member-search-index.js" afterPath="$PROJECT_DIR$/target/site/apidocs/member-search-index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/overview-frame.html" afterPath="$PROJECT_DIR$/target/site/apidocs/overview-frame.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/overview-summary.html" afterPath="$PROJECT_DIR$/target/site/apidocs/overview-summary.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/overview-tree.html" afterPath="$PROJECT_DIR$/target/site/apidocs/overview-tree.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/app/TextTransformerApplication.html" afterPath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/app/TextTransformerApplication.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/app/class-use/TextTransformerApplication.html" afterPath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/app/class-use/TextTransformerApplication.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/app/package-frame.html" afterPath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/app/package-frame.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/app/package-summary.html" afterPath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/app/package-summary.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/app/package-tree.html" afterPath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/app/package-tree.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/app/package-use.html" afterPath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/app/package-use.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/Generators.html" afterPath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/Generators.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/Main.html" afterPath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/Main.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/NaFormatLatexa.html" afterPath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/NaFormatLatexa.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/OdwrocZnaki.html" afterPath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/OdwrocZnaki.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/PierwszeWielkie.html" afterPath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/PierwszeWielkie.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/RozwinSkrot.html" afterPath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/RozwinSkrot.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/TText.html" afterPath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/TText.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/Text.html" afterPath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/Text.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/TextTransformer.html" afterPath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/TextTransformer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/Transformations.html" afterPath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/Transformations.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/TransformedText.html" afterPath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/TransformedText.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/UsunDuplikaty.html" afterPath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/UsunDuplikaty.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/WszystkieMale.html" afterPath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/WszystkieMale.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/WszystkieWielkie.html" afterPath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/WszystkieWielkie.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/ZmienLiczbyNaSlowa.html" afterPath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/ZmienLiczbyNaSlowa.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/ZwinSkrot.html" afterPath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/ZwinSkrot.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/class-use/Generators.html" afterPath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/class-use/Generators.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/class-use/Main.html" afterPath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/class-use/Main.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/class-use/NaFormatLatexa.html" afterPath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/class-use/NaFormatLatexa.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/class-use/OdwrocZnaki.html" afterPath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/class-use/OdwrocZnaki.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/class-use/PierwszeWielkie.html" afterPath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/class-use/PierwszeWielkie.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/class-use/RozwinSkrot.html" afterPath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/class-use/RozwinSkrot.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/class-use/TText.html" afterPath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/class-use/TText.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/class-use/Text.html" afterPath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/class-use/Text.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/class-use/TextTransformer.html" afterPath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/class-use/TextTransformer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/class-use/Transformations.html" afterPath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/class-use/Transformations.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/class-use/TransformedText.html" afterPath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/class-use/TransformedText.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/class-use/UsunDuplikaty.html" afterPath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/class-use/UsunDuplikaty.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/class-use/WszystkieMale.html" afterPath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/class-use/WszystkieMale.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/class-use/WszystkieWielkie.html" afterPath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/class-use/WszystkieWielkie.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/class-use/ZmienLiczbyNaSlowa.html" afterPath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/class-use/ZmienLiczbyNaSlowa.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/class-use/ZwinSkrot.html" afterPath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/class-use/ZwinSkrot.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/package-frame.html" afterPath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/package-frame.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/package-summary.html" afterPath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/package-summary.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/package-tree.html" afterPath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/package-tree.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/package-use.html" afterPath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/logic/package-use.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/rest/TextTransformerController.html" afterPath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/rest/TextTransformerController.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/rest/class-use/TextTransformerController.html" afterPath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/rest/class-use/TextTransformerController.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/rest/package-frame.html" afterPath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/rest/package-frame.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/rest/package-summary.html" afterPath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/rest/package-summary.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/rest/package-tree.html" afterPath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/rest/package-tree.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/rest/package-use.html" afterPath="$PROJECT_DIR$/target/site/apidocs/pl/put/poznan/transformer/rest/package-use.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/type-search-index.js" afterPath="$PROJECT_DIR$/target/site/apidocs/type-search-index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/dependencies.html" afterPath="$PROJECT_DIR$/target/site/dependencies.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/dependency-info.html" afterPath="$PROJECT_DIR$/target/site/dependency-info.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/dependency-management.html" afterPath="$PROJECT_DIR$/target/site/dependency-management.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/index.html" afterPath="$PROJECT_DIR$/target/site/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/license.html" afterPath="$PROJECT_DIR$/target/site/license.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/plugin-management.html" afterPath="$PROJECT_DIR$/target/site/plugin-management.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/plugins.html" afterPath="$PROJECT_DIR$/target/site/plugins.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/project-info.html" afterPath="$PROJECT_DIR$/target/site/project-info.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/project-reports.html" afterPath="$PROJECT_DIR$/target/site/project-reports.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/project-summary.html" afterPath="$PROJECT_DIR$/target/site/project-summary.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/source-repository.html" afterPath="$PROJECT_DIR$/target/site/source-repository.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/surefire-report.html" afterPath="$PROJECT_DIR$/target/site/surefire-report.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/team-list.html" afterPath="$PROJECT_DIR$/target/site/team-list.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/testapidocs/allclasses-frame.html" afterPath="$PROJECT_DIR$/target/site/testapidocs/allclasses-frame.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/testapidocs/allclasses-noframe.html" afterPath="$PROJECT_DIR$/target/site/testapidocs/allclasses-noframe.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/testapidocs/constant-values.html" afterPath="$PROJECT_DIR$/target/site/testapidocs/constant-values.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/testapidocs/deprecated-list.html" afterPath="$PROJECT_DIR$/target/site/testapidocs/deprecated-list.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/testapidocs/help-doc.html" afterPath="$PROJECT_DIR$/target/site/testapidocs/help-doc.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/testapidocs/index-all.html" afterPath="$PROJECT_DIR$/target/site/testapidocs/index-all.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/testapidocs/index.html" afterPath="$PROJECT_DIR$/target/site/testapidocs/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/testapidocs/member-search-index.js" afterPath="$PROJECT_DIR$/target/site/testapidocs/member-search-index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/testapidocs/overview-tree.html" afterPath="$PROJECT_DIR$/target/site/testapidocs/overview-tree.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/testapidocs/pl/put/poznan/transformer/logic/TransformationsTest.html" afterPath="$PROJECT_DIR$/target/site/testapidocs/pl/put/poznan/transformer/logic/TransformationsTest.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/testapidocs/pl/put/poznan/transformer/logic/class-use/TransformationsTest.html" afterPath="$PROJECT_DIR$/target/site/testapidocs/pl/put/poznan/transformer/logic/class-use/TransformationsTest.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/testapidocs/pl/put/poznan/transformer/logic/package-frame.html" afterPath="$PROJECT_DIR$/target/site/testapidocs/pl/put/poznan/transformer/logic/package-frame.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/testapidocs/pl/put/poznan/transformer/logic/package-summary.html" afterPath="$PROJECT_DIR$/target/site/testapidocs/pl/put/poznan/transformer/logic/package-summary.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/testapidocs/pl/put/poznan/transformer/logic/package-tree.html" afterPath="$PROJECT_DIR$/target/site/testapidocs/pl/put/poznan/transformer/logic/package-tree.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/testapidocs/pl/put/poznan/transformer/logic/package-use.html" afterPath="$PROJECT_DIR$/target/site/testapidocs/pl/put/poznan/transformer/logic/package-use.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/testapidocs/type-search-index.js" afterPath="$PROJECT_DIR$/target/site/testapidocs/type-search-index.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-pl.put.poznan.transformer.logic.TransformationsTest.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-pl.put.poznan.transformer.logic.TransformationsTest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-pl.put.poznan.transformer.logic.UsunPolskieTest.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-pl.put.poznan.transformer.logic.UsunPolskieTest.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/pl.put.poznan.transformer.logic.TransformationsTest.txt" afterPath="$PROJECT_DIR$/target/surefire-reports/pl.put.poznan.transformer.logic.TransformationsTest.txt" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -131,7 +214,32 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
+    <leaf>
+      <file leaf-file-name="TextTransformerApplication.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/put/poznan/transformer/app/TextTransformerApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1323">
+              <caret line="66" column="82" lean-forward="false" selection-start-line="66" selection-start-column="82" selection-end-line="66" selection-end-column="82" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#783#784#0" expanded="true" />
+                <element signature="e#807#808#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TextTransformerController.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/put/poznan/transformer/rest/TextTransformerController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="11" column="15" lean-forward="true" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -176,12 +284,13 @@
         <option value="$PROJECT_DIR$/src/main/java/pl/put/poznan/transformer/logic/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/put/poznan/transformer/logic/UsunPolskie.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/put/poznan/transformer/logic/NaFormatLatexa.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/put/poznan/transformer/app/TextTransformerApplication.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/put/poznan/transformer/rest/TextTransformerController.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/put/poznan/transformer/rest/IndexController.java" />
         <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/pl/put/poznan/transformer/app/TransformForm.form" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/put/poznan/transformer/app/TransformForm.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/put/poznan/transformer/app/TextTransformerApplication.java" />
       </list>
     </option>
   </component>
@@ -215,6 +324,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -309,8 +420,6 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -382,7 +491,6 @@
               <list>
                 <option value="clean" />
                 <option value="install" />
-                <option value="site" />
                 <option value="spring-boot:run" />
               </list>
             </option>
@@ -568,6 +676,7 @@
       <workItem from="1515574767607" duration="3601000" />
       <workItem from="1516363817658" duration="10435000" />
       <workItem from="1516377077721" duration="82000" />
+      <workItem from="1516396752152" duration="2968000" />
     </task>
     <servers />
   </component>
@@ -586,10 +695,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30945000" />
+    <option name="totallyTimeSpent" value="33913000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1098" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -666,7 +776,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="16" column="60" lean-forward="false" selection-start-line="16" selection-start-column="60" selection-end-line="16" selection-end-column="60" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -690,7 +799,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -698,7 +806,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -842,7 +949,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="630">
           <caret line="30" column="31" lean-forward="false" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -884,7 +990,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="21">
           <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="3" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -892,7 +997,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="21">
           <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="3" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -900,7 +1004,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -908,7 +1011,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="21">
           <caret line="1" column="2" lean-forward="false" selection-start-line="1" selection-start-column="2" selection-end-line="3" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1210,7 +1312,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-441">
           <caret line="3" column="3" lean-forward="false" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1218,7 +1319,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="16" column="60" lean-forward="false" selection-start-line="16" selection-start-column="60" selection-end-line="16" selection-end-column="60" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1226,7 +1326,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
           <caret line="2" column="40" lean-forward="false" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1242,7 +1341,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
           <caret line="2" column="61" lean-forward="false" selection-start-line="2" selection-start-column="61" selection-end-line="2" selection-end-column="61" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1250,7 +1348,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
           <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1258,7 +1355,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="735">
           <caret line="54" column="13" lean-forward="true" selection-start-line="54" selection-start-column="13" selection-end-line="54" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1266,9 +1362,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="8" column="108" lean-forward="false" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="108" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1276,7 +1369,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="21" column="42" lean-forward="false" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1284,7 +1376,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
           <caret line="17" column="93" lean-forward="false" selection-start-line="17" selection-start-column="93" selection-end-line="17" selection-end-column="93" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1292,7 +1383,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
           <caret line="17" column="4" lean-forward="true" selection-start-line="17" selection-start-column="4" selection-end-line="19" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1300,7 +1390,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
           <caret line="18" column="36" lean-forward="false" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1308,7 +1397,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="63">
           <caret line="3" column="3" lean-forward="false" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1319,19 +1407,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/put/poznan/transformer/app/TextTransformerApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="17" column="69" lean-forward="false" selection-start-line="17" selection-start-column="69" selection-end-line="17" selection-end-column="69" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/put/poznan/transformer/logic/WszystkieMale.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="63">
           <caret line="3" column="3" lean-forward="false" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1339,13 +1418,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="441">
           <caret line="21" column="50" lean-forward="false" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#521#522#0" expanded="false" />
-            <element signature="e#548#549#0" expanded="false" />
-            <element signature="e#670#671#0" expanded="false" />
-            <element signature="e#716#717#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1353,19 +1425,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
           <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/put/poznan/transformer/app/TransformForm.form">
-      <provider selected="true" editor-type-id="ui-designer">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/put/poznan/transformer/app/TransformForm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1377,9 +1436,42 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/put/poznan/transformer/app/TransformForm.form">
+      <provider selected="true" editor-type-id="ui-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.1/lib/src.zip!/java.base/java/lang/Runnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="443">
+          <caret line="67" column="25" lean-forward="false" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/put/poznan/transformer/app/TransformForm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="27" column="47" lean-forward="false" selection-start-line="27" selection-start-column="47" selection-end-line="27" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/put/poznan/transformer/app/TextTransformerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1323">
+          <caret line="66" column="82" lean-forward="false" selection-start-line="66" selection-start-column="82" selection-end-line="66" selection-end-column="82" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#783#784#0" expanded="true" />
+            <element signature="e#807#808#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/put/poznan/transformer/rest/TextTransformerController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
+        <state relative-caret-position="126">
           <caret line="11" column="15" lean-forward="true" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
           <folding />
         </state>

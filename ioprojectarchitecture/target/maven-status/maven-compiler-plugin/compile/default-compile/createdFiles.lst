@@ -12,6 +12,7 @@ pl\put\poznan\transformer\logic\UsunDuplikaty.class
 pl\put\poznan\transformer\logic\Main.class
 pl\put\poznan\transformer\logic\WszystkieMale.class
 pl\put\poznan\transformer\logic\Text.class
+pl\put\poznan\transformer\app\TransformForm$1.class
 pl\put\poznan\transformer\logic\PierwszeWielkie.class
 pl\put\poznan\transformer\app\TextTransformerApplication.class
 pl\put\poznan\transformer\logic\RozwinSkrot.class
