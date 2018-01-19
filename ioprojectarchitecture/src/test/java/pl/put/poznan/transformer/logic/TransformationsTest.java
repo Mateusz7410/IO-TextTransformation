@@ -1,8 +1,11 @@
 package pl.put.poznan.transformer.logic;
 import org.junit.Assert;
 import org.junit.Test;
-
 import static org.junit.Assert.*;
+
+/**
+ * Klasa testująca zawierająca metody testujące funkcjonalność aplikacji.
+ */
 public class TransformationsTest {
     @Test
     public void usunDuplikatyTest() throws Exception {
