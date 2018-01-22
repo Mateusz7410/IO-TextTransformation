@@ -126,7 +126,7 @@ public class TransformationsTest {
         transformedText = Transformations.rozwinSkrot(transformedText);
         transformedText = Transformations.zmienLiczbyNaSlowa(transformedText);
         transformedText = Transformations.wszystkieWielkie(transformedText);
-        Assert.assertEquals("PTOFESOR JOHN CHCIAŁBY KUPIĆ DWA I PÓŁ KILOGRAMA JABŁEK ORAZ TRZY POMARAŃCZE.", transformedText.getText());
+        Assert.assertEquals("PROFESOR JOHN CHCIAŁBY KUPIĆ DWA I PÓŁ KILOGRAMA JABŁEK ORAZ TRZY POMARAŃCZE.", transformedText.getText());
     }
 
     @Test
@@ -141,7 +141,7 @@ public class TransformationsTest {
     public void odwrocZnaki2() {
         Text transformedText = new TText("CALIneczka");
         transformedText = Transformations.odwrocZnaki(transformedText);
-        Assert.assertEquals("caliNECZKA", transformedText.getText());
+        Assert.assertEquals("AKZCenilac", transformedText.getText());
     }
 
 }
