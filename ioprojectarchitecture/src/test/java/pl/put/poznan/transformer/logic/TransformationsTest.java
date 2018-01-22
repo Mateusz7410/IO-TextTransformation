@@ -112,12 +112,36 @@ public class TransformationsTest {
     }
 
     @Test
-    public void klikaNaRaz() {
+    public void kilkaNaRaz() {
         Text transformedText = new TText("gdy Prof. Adam jedzie na wycieczke 22 grudnia. Dr Kotecki też by chciał ale nie jest dr");
         transformedText = Transformations.rozwinSkrot(transformedText);
         transformedText = Transformations.zmienLiczbyNaSlowa(transformedText);
         transformedText = Transformations.pierwszeWielkie(transformedText);
         Assert.assertEquals("Gdy Profesor Adam Jedzie Na Wycieczke Dwadzieścia Dwa Grudnia. Doktor Kotecki Też By Chciał Ale Nie Jest Doktor", transformedText.getText());
+    }
+
+    @Test
+    public void kilkaNaRaz2() {
+        Text transformedText = new TText("Prof. John chciałby kupić 2.5 kilograma jabłek oraz 3 pomarańcze.");
+        transformedText = Transformations.rozwinSkrot(transformedText);
+        transformedText = Transformations.zmienLiczbyNaSlowa(transformedText);
+        transformedText = Transformations.wszystkieWielkie(transformedText);
+        Assert.assertEquals("PTOFESOR JOHN CHCIAŁBY KUPIĆ DWA I PÓŁ KILOGRAMA JABŁEK ORAZ TRZY POMARAŃCZE.", transformedText.getText());
+    }
+
+    @Test
+    public void kilkaNaRaz3() {
+        Text transformedText = new TText("Jedziemy w 5 osób na wycieczkę.");
+        transformedText = Transformations.zmienLiczbyNaSlowa(transformedText);
+        transformedText = Transformations.wszystkieMale(transformedText);
+        Assert.assertEquals("jedziemy w pięć osób na wycieczkę.", transformedText.getText());
+    }
+
+    @Test
+    public void odwrocZnaki2() {
+        Text transformedText = new TText("CALIneczka");
+        transformedText = Transformations.odwrocZnaki(transformedText);
+        Assert.assertEquals("caliNECZKA", transformedText.getText());
     }
 
 }
