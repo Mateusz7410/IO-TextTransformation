@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="pl.put.poznan.transformer.logic.TransformationsTest" time="0.09" tests="14" errors="0" skipped="0" failures="0">
+<testsuite name="pl.put.poznan.transformer.logic.TransformationsTest" time="0.061" tests="17" errors="0" skipped="0" failures="0">
   <properties>
     <property name="idea.version" value="2017.2.6"/>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
@@ -44,7 +44,7 @@
     <property name="java.class.path" value="D:\Programy\IntelliJ IDEA 2017.2.5\plugins\maven\lib\maven3\boot\plexus-classworlds-2.5.2.jar"/>
     <property name="java.vm.specification.version" value="9"/>
     <property name="sun.arch.data.model" value="64"/>
-    <property name="sun.java.command" value="org.codehaus.classworlds.Launcher -Didea.version=2017.2.6 clean install spring-boot:run"/>
+    <property name="sun.java.command" value="org.codehaus.classworlds.Launcher -Didea.version=2017.2.6 clean install site spring-boot:run"/>
     <property name="java.home" value="C:\Program Files\Java\jdk-9.0.1"/>
     <property name="user.language" value="pl"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
@@ -60,18 +60,21 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase name="odwrocSpecjalne" classname="pl.put.poznan.transformer.logic.TransformationsTest" time="0.002"/>
-  <testcase name="zmienLiczbyNaSlowa" classname="pl.put.poznan.transformer.logic.TransformationsTest" time="0.035"/>
-  <testcase name="naFormatLatexaTest" classname="pl.put.poznan.transformer.logic.TransformationsTest" time="0.003"/>
-  <testcase name="pierwszeWielkie" classname="pl.put.poznan.transformer.logic.TransformationsTest" time="0.008"/>
-  <testcase name="odwrocAngielskie" classname="pl.put.poznan.transformer.logic.TransformationsTest" time="0"/>
-  <testcase name="klikaNaRaz" classname="pl.put.poznan.transformer.logic.TransformationsTest" time="0.008"/>
+  <testcase name="kilkaNaRaz" classname="pl.put.poznan.transformer.logic.TransformationsTest" time="0.013"/>
+  <testcase name="odwrocSpecjalne" classname="pl.put.poznan.transformer.logic.TransformationsTest" time="0"/>
+  <testcase name="zmienLiczbyNaSlowa" classname="pl.put.poznan.transformer.logic.TransformationsTest" time="0.018"/>
+  <testcase name="naFormatLatexaTest" classname="pl.put.poznan.transformer.logic.TransformationsTest" time="0.001"/>
+  <testcase name="pierwszeWielkie" classname="pl.put.poznan.transformer.logic.TransformationsTest" time="0"/>
+  <testcase name="odwrocAngielskie" classname="pl.put.poznan.transformer.logic.TransformationsTest" time="0.001"/>
+  <testcase name="kilkaNaRaz2" classname="pl.put.poznan.transformer.logic.TransformationsTest" time="0.005"/>
+  <testcase name="kilkaNaRaz3" classname="pl.put.poznan.transformer.logic.TransformationsTest" time="0.003"/>
   <testcase name="rozwinSkrotTest" classname="pl.put.poznan.transformer.logic.TransformationsTest" time="0.002"/>
-  <testcase name="zmienLiczbyNaSlowa2" classname="pl.put.poznan.transformer.logic.TransformationsTest" time="0.007"/>
-  <testcase name="zmienLiczbyNaSlowa3" classname="pl.put.poznan.transformer.logic.TransformationsTest" time="0.011"/>
-  <testcase name="wszystkieWielkie" classname="pl.put.poznan.transformer.logic.TransformationsTest" time="0.003"/>
+  <testcase name="zmienLiczbyNaSlowa2" classname="pl.put.poznan.transformer.logic.TransformationsTest" time="0.011"/>
+  <testcase name="zmienLiczbyNaSlowa3" classname="pl.put.poznan.transformer.logic.TransformationsTest" time="0.005"/>
+  <testcase name="wszystkieWielkie" classname="pl.put.poznan.transformer.logic.TransformationsTest" time="0"/>
   <testcase name="odwrocPolskie" classname="pl.put.poznan.transformer.logic.TransformationsTest" time="0"/>
-  <testcase name="wszystkieMale" classname="pl.put.poznan.transformer.logic.TransformationsTest" time="0.002"/>
-  <testcase name="zwinSkrot" classname="pl.put.poznan.transformer.logic.TransformationsTest" time="0.004"/>
-  <testcase name="usunDuplikatyTest" classname="pl.put.poznan.transformer.logic.TransformationsTest" time="0.005"/>
+  <testcase name="odwrocZnaki2" classname="pl.put.poznan.transformer.logic.TransformationsTest" time="0"/>
+  <testcase name="wszystkieMale" classname="pl.put.poznan.transformer.logic.TransformationsTest" time="0"/>
+  <testcase name="zwinSkrot" classname="pl.put.poznan.transformer.logic.TransformationsTest" time="0.001"/>
+  <testcase name="usunDuplikatyTest" classname="pl.put.poznan.transformer.logic.TransformationsTest" time="0.001"/>
 </testsuite>

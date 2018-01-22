@@ -4,7 +4,6 @@ pl\put\poznan\transformer\logic\Generators.class
 pl\put\poznan\transformer\logic\TText.class
 pl\put\poznan\transformer\logic\WszystkieWielkie.class
 pl\put\poznan\transformer\logic\NaFormatLatexa.class
-pl\put\poznan\transformer\app\TransformForm.class
 pl\put\poznan\transformer\logic\OdwrocZnaki.class
 pl\put\poznan\transformer\logic\ZwinSkrot.class
 pl\put\poznan\transformer\logic\UsunPolskie.class
@@ -12,7 +11,6 @@ pl\put\poznan\transformer\logic\UsunDuplikaty.class
 pl\put\poznan\transformer\logic\Main.class
 pl\put\poznan\transformer\logic\WszystkieMale.class
 pl\put\poznan\transformer\logic\Text.class
-pl\put\poznan\transformer\app\TransformForm$1.class
 pl\put\poznan\transformer\logic\PierwszeWielkie.class
 pl\put\poznan\transformer\app\TextTransformerApplication.class
 pl\put\poznan\transformer\logic\RozwinSkrot.class
