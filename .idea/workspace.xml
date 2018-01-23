@@ -101,8 +101,8 @@
       <file leaf-file-name="MockTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ioprojectarchitecture/src/test/java/pl/put/poznan/transformer/logic/MockTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="16" column="52" lean-forward="false" selection-start-line="16" selection-start-column="52" selection-end-line="16" selection-end-column="52" />
+            <state relative-caret-position="294">
+              <caret line="14" column="28" lean-forward="false" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -782,8 +782,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ioprojectarchitecture/src/test/java/pl/put/poznan/transformer/logic/MockTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="16" column="52" lean-forward="false" selection-start-line="16" selection-start-column="52" selection-end-line="16" selection-end-column="52" />
+        <state relative-caret-position="294">
+          <caret line="14" column="28" lean-forward="false" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
