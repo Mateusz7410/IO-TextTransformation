@@ -14,7 +14,7 @@ public class MockTest
         Transformations mock=mock(Transformations.class);
         when(mock.getText().thenReturn("dziala");
         verify(mock).getText();
-        Assert.assertEquals("dziala", mock.getText();
+        Assert.assertEquals("dziala", mock.getText());
 
         /*WszystkieWielkie mock=mock(WszystkieWielkie.class);
         when(mock.wszystkieWielkie(eq("mama"))).thenReturn("MAMA");
