@@ -11,7 +11,7 @@ public class MockTest
     @Test
     public void MockTest1()
     {
-        Transformations mock=mock(Transformations.class);
+        TransformedText mock=mock(TransformedText.class);
         when(mock.getText()).thenReturn("dziala");
         verify(mock).getText();
         Assert.assertEquals("dziala", mock.getText());
