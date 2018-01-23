@@ -18,7 +18,7 @@ public class TextTransformer {
 
 
     /**
-     * Metoda sprawdzająca rodzaj transformacji i wykonująca ją w pętli.
+     * Metoda sprawdzająca rodzaj transformacji i wszystkie podane w pętli.
      * Na koniec zwraca przekonwertowany tekst.
      */
     public String transform(String text){
