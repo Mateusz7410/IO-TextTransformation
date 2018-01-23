@@ -12,9 +12,9 @@ public class MockTest
     public void MockTest1()
     {
         Transformations mock=mock(Transformations.class);
-        when(mock.wszystkieWielkie(eq("mama"))).thenReturn("MAMA");
-        verify(mock).wszystkieWielkie(eq("mama"));
-        Assert.assertEquals("MAMA", mock.wszystkieWielkie(eq("mama")));
+        when(mock.wszystkieWielkie("mama")).thenReturn("MAMA");
+        verify(mock).wszystkieWielkie("mama");
+        Assert.assertEquals("MAMA", mock.wszystkieWielkie("mama"));
     }
 
 
