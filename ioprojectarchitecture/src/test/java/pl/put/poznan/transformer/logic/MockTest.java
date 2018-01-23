@@ -12,8 +12,8 @@ public class MockTest
     public void MockTest1()
     {
         WszystkieWielkie mock=mock(WszystkieWielkie.class);
-        when(mock.wszystkieWielkie("mama")).thenReturn("wielkie");
-        verify(mock).wszystkieWielkie("mama");
+        when(mock.wszystkieWielkie(eq("mama"))).thenReturn("wielkie");
+        verify(mock).wszystkieWielkie(eq("mama"));
         Assert.assertEquals("MAMA", mock.wszystkieWielkie("mama"));
     }
 }
