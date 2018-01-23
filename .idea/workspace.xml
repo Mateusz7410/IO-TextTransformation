@@ -14,7 +14,7 @@
       <file leaf-file-name="ZmienLiczbyNaSlowa.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ioprojectarchitecture/src/main/java/pl/put/poznan/transformer/logic/ZmienLiczbyNaSlowa.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1407">
+            <state relative-caret-position="1449">
               <caret line="73" column="43" lean-forward="false" selection-start-line="73" selection-start-column="43" selection-end-line="73" selection-end-column="43" />
               <folding />
             </state>
@@ -24,7 +24,7 @@
       <file leaf-file-name="Generators.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ioprojectarchitecture/src/main/java/pl/put/poznan/transformer/logic/Generators.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="21">
+            <state relative-caret-position="105">
               <caret line="5" column="31" lean-forward="false" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
               <folding />
             </state>
@@ -35,8 +35,10 @@
         <entry file="file://$PROJECT_DIR$/ioprojectarchitecture/src/test/java/pl/put/poznan/transformer/logic/UsunPolskieTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -61,11 +63,43 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TransformationsTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TransformationsTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ioprojectarchitecture/src/test/java/pl/put/poznan/transformer/logic/TransformationsTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="642">
-              <caret line="143" column="35" lean-forward="false" selection-start-line="143" selection-start-column="35" selection-end-line="143" selection-end-column="35" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.iml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ioprojectarchitecture/src/test/test.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MockTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ioprojectarchitecture/src/test/java/pl/put/poznan/transformer/logic/MockTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="16" column="43" lean-forward="false" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WszystkieWielkie.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ioprojectarchitecture/src/main/java/pl/put/poznan/transformer/logic/WszystkieWielkie.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="4" lean-forward="false" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -87,6 +121,9 @@
         <option value="$PROJECT_DIR$/ioprojectarchitecture/src/main/java/pl/put/poznan/transformer/logic/ZmienLiczbyNaSlowa.java" />
         <option value="$PROJECT_DIR$/ioprojectarchitecture/src/main/java/pl/put/poznan/transformer/logic/Generators.java" />
         <option value="$PROJECT_DIR$/ioprojectarchitecture/src/test/java/pl/put/poznan/transformer/logic/TransformationsTest.java" />
+        <option value="$PROJECT_DIR$/ioprojectarchitecture/src/test/test.iml" />
+        <option value="$PROJECT_DIR$/ioprojectarchitecture/src/main/java/pl/put/poznan/transformer/logic/WszystkieWielkie.java" />
+        <option value="$PROJECT_DIR$/ioprojectarchitecture/src/test/java/pl/put/poznan/transformer/logic/MockTest.java" />
       </list>
     </option>
   </component>
@@ -106,10 +143,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1152" />
-    <option name="height" value="864" />
+    <option name="x" value="891" />
+    <option name="y" value="190" />
+    <option name="width" value="960" />
+    <option name="height" value="1032" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -126,7 +163,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
@@ -330,11 +366,18 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../IO-TextTranformation" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Mati\Documents\GitHub\IO\IO-TextTransformation\ioprojectarchitecture\src\test" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -389,6 +432,31 @@
       </option>
       <envs />
       <patterns />
+    </configuration>
+    <configuration name="Unnamed" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="install" />
+                <option value="spring-boot:run" />
+              </list>
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/../../IO-TextTranformation" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
     </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
@@ -488,6 +556,56 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/ioprojectarchitecture/src/main/java/pl/put/poznan/transformer/logic/ZmienLiczbyNaSlowa.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1449">
+          <caret line="73" column="43" lean-forward="false" selection-start-line="73" selection-start-column="43" selection-end-line="73" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ioprojectarchitecture/src/main/java/pl/put/poznan/transformer/logic/Generators.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="31" lean-forward="false" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ioprojectarchitecture/src/test/java/pl/put/poznan/transformer/logic/UsunPolskieTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ioprojectarchitecture/src/main/java/pl/put/poznan/transformer/logic/Transformations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ioprojectarchitecture/src/main/java/pl/put/poznan/transformer/logic/TextTransformer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ioprojectarchitecture/src/test/java/pl/put/poznan/transformer/logic/TransformationsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2961">
+          <caret line="143" column="35" lean-forward="false" selection-start-line="143" selection-start-column="35" selection-end-line="143" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ioprojectarchitecture/src/main/java/pl/put/poznan/transformer/logic/ZmienLiczbyNaSlowa.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1407">
           <caret line="73" column="43" lean-forward="false" selection-start-line="73" selection-start-column="43" selection-end-line="73" selection-end-column="43" />
           <folding />
@@ -568,7 +686,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ioprojectarchitecture/src/main/java/pl/put/poznan/transformer/logic/ZmienLiczbyNaSlowa.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1407">
+        <state relative-caret-position="1449">
           <caret line="73" column="43" lean-forward="false" selection-start-line="73" selection-start-column="43" selection-end-line="73" selection-end-column="43" />
           <folding />
         </state>
@@ -576,7 +694,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ioprojectarchitecture/src/main/java/pl/put/poznan/transformer/logic/Generators.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
+        <state relative-caret-position="105">
           <caret line="5" column="31" lean-forward="false" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
           <folding />
         </state>
@@ -590,7 +708,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ioprojectarchitecture/src/test/java/pl/put/poznan/transformer/logic/UsunPolskieTest.java">
+    <entry file="file://$PROJECT_DIR$/ioprojectarchitecture/src/test/test.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -600,9 +718,37 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ioprojectarchitecture/src/test/java/pl/put/poznan/transformer/logic/TransformationsTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="642">
-          <caret line="143" column="35" lean-forward="false" selection-start-line="143" selection-start-column="35" selection-end-line="143" selection-end-column="35" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ioprojectarchitecture/src/test/java/pl/put/poznan/transformer/logic/UsunPolskieTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ioprojectarchitecture/src/main/java/pl/put/poznan/transformer/logic/WszystkieWielkie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="4" lean-forward="false" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ioprojectarchitecture/src/test/java/pl/put/poznan/transformer/logic/MockTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="43" lean-forward="false" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -1,4 +1,4 @@
-package pl.put.poznan.transformer.logic;
+    package pl.put.poznan.transformer.logic;
 /**
  * Dekorator zamieniający wszystkie znaki wyrażenia na wielkie, dekorujący obiekt TText.
  */
